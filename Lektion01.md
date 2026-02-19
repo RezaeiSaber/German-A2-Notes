@@ -4,13 +4,13 @@ This comprehensive study guide covers all concepts presented in the first lesson
 
 ---
 
-## Introduction to A2 Level [00:00](https://youtube.com/watch?v=NdY8kGA1wVA&t=0s)
+## 📚 Introduction to A2 Level [00:00](https://youtube.com/watch?v=NdY8kGA1wVA&t=0s)
 
 The A2 level is considered challenging because it is grammar-intensive. Mastering this level is crucial as it forms the foundation for B1 and B2. A common struggle is the limited vocabulary, but the focus here is on structural mastery.
 
 ---
 
-## Subordinate Clauses with "weil" (Nebensätze) [03:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=195s)
+## 🔗 Subordinate Clauses with "weil" (Nebensätze) [03:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=195s)
 
 #### The Golden Rule of Word Order
 In a standard German sentence (Hauptsatz), the verb is in the **second position**. In a subordinate clause (Nebensatz) starting with **weil** (because/since), the conjugated verb moves to the **very end** of the sentence.
@@ -49,7 +49,7 @@ In a standard German sentence (Hauptsatz), the verb is in the **second position*
 
 ---
 
-## Greeting and Meeting Phrases [09:56](https://youtube.com/watch?v=NdY8kGA1wVA&t=596s)
+## 👋 Greeting and Meeting Phrases [09:56](https://youtube.com/watch?v=NdY8kGA1wVA&t=596s)
 
 * **Es freut mich sehr.** (I am very pleased / Nice to meet you.)
 * **Ich habe mich gefreut.** (I was pleased / It was nice meeting you - used when leaving.)
@@ -59,7 +59,7 @@ In a standard German sentence (Hauptsatz), the verb is in the **second position*
 
 ---
 
-## Case Review: Nominative, Accusative, and Dative [12:35](https://youtube.com/watch?v=NdY8kGA1wVA&t=755s)
+## 📊 Case Review: Nominative, Accusative, and Dative [12:35](https://youtube.com/watch?v=NdY8kGA1wVA&t=755s)
 
 Reviewing the changes in articles based on the case:
 
@@ -79,7 +79,7 @@ Reviewing the changes in articles based on the case:
 
 ---
 
-## Personal Pronouns in All Cases [19:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1155s)
+## 👤 Personal Pronouns in All Cases [19:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1155s)
 
 | Nominative | Accusative | Dative |
 | :--- | :--- | :--- |
@@ -109,7 +109,7 @@ Reviewing the changes in articles based on the case:
 
 ---
 
-## Dative-Focus Verbs (Gefallen & Schmecken) [26:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1575s)
+## ❤️ Dative-Focus Verbs (Gefallen & Schmecken) [26:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1575s)
 
 These verbs function "backwards" compared to English. The person who likes the thing is in the Dative case.
 
@@ -127,7 +127,7 @@ These verbs function "backwards" compared to English. The person who likes the t
 
 ---
 
-## Separable Verbs in Perfect Tense [29:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1755s)
+## ✂️ Separable Verbs in Perfect Tense [29:15](https://youtube.com/watch?v=NdY8kGA1wVA&t=1755s)
 
 When forming the Partizip II (past participle) of a **separable verb**, the **"-ge-"** is placed between the prefix and the verb stem.
 
@@ -152,7 +152,7 @@ When forming the Partizip II (past participle) of a **separable verb**, the **"-
 
 ---
 
-## Vocabulary and Concept Breakdown [41:25](https://youtube.com/watch?v=NdY8kGA1wVA&t=2485s)
+## 📖 Vocabulary and Concept Breakdown [41:25](https://youtube.com/watch?v=NdY8kGA1wVA&t=2485s)
 
 #### Professional & Education:
 * **das Au-pair-Mädchen** (the au pair girl): Typically a young person living with a host family to learn language/culture while helping with children.

@@ -4,7 +4,7 @@ This lesson covers the essential grammar for expressing necessity and ability in
 
 ---
 
-## 1. Prepositions: mit vs. ohne [01:00](https://youtube.com/watch?v=h1Tam1GXTMw&t=60s)
+## 1. 🆚️ Prepositions: mit vs. ohne [01:00](https://youtube.com/watch?v=h1Tam1GXTMw&t=60s)
 
 A fundamental distinction in German is between "with" and "without," which trigger different cases.
 
@@ -26,7 +26,7 @@ A fundamental distinction in German is between "with" and "without," which trigg
 
 ---
 
-## 2. Subordinate Clauses with "dass" [06:50](https://youtube.com/watch?v=h1Tam1GXTMw&t=410s)
+## 2. 🔗 Subordinate Clauses with "dass" [06:50](https://youtube.com/watch?v=h1Tam1GXTMw&t=410s)
 
 The word **dass** (that) creates a **Nebensatz** (subordinate clause).
 
@@ -50,7 +50,7 @@ The word **dass** (that) creates a **Nebensatz** (subordinate clause).
 
 ---
 
-## 3. Subordinate Clauses with "wenn" [12:23](https://youtube.com/watch?v=h1Tam1GXTMw&t=743s)
+## 3. ❓ Subordinate Clauses with "wenn" [12:23](https://youtube.com/watch?v=h1Tam1GXTMw&t=743s)
 
 **Wenn** can mean either "if" or "when." Like "dass," it is a Nebensatz connector.
 
@@ -65,7 +65,7 @@ The word **dass** (that) creates a **Nebensatz** (subordinate clause).
 
 ---
 
-## 4. Connectors: deshalb / deshalb (Hauptsatz) [22:27](https://youtube.com/watch?v=h1Tam1GXTMw&t=1347s)
+## 4. ➡️ Connectors: deshalb / deshalb (Hauptsatz) [22:27](https://youtube.com/watch?v=h1Tam1GXTMw&t=1347s)
 
 Unlike "dass" and "wenn," **deshalb** (therefore/for that reason) creates a **Hauptsatz** structure.
 
@@ -89,15 +89,15 @@ Unlike "dass" and "wenn," **deshalb** (therefore/for that reason) creates a **Ha
 
 ---
 
-## 5. School Subjects & University [27:40](https://youtube.com/watch?v=h1Tam1GXTMw&t=1660s)
+## 5. 🎓 School Subjects & University [27:40](https://youtube.com/watch?v=h1Tam1GXTMw&t=1660s)
 
 ### Academic Vocabulary
-* **das Fach / das Lieblingsfach:** The subject / favorite subject.
-* **das Studium:** University studies.
+* **das Fach / das Lieblingsfach:** 📖 The subject / favorite subject.
+* **das Studium:** 🎓 University studies.
 * **das Studium abschließen:** To graduate/finish studies. [05:10](https://youtube.com/watch?v=h1Tam1GXTMw&t=310s)
 
 ### Common Subjects
-* **der Sport:** Sports/PE.
+* **der Sport:** ⚽ Sports/PE.
 * **die Literatur:** Literature.
 * **die Religion:** Religion.
 * **die Chemie:** Chemistry (Pronounced *Shemee* in North, *Kemee* in South). [28:39](https://youtube.com/watch?v=h1Tam1GXTMw&t=1719s)

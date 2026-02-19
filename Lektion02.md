@@ -4,7 +4,7 @@ This comprehensive study guide covers all concepts from the second lesson of the
 
 ---
 
-## Comparative and Superlative Adjectives [02:33](https://youtube.com/watch?v=xAkmLFk3B5U&t=153s)
+## 📈 Comparative and Superlative Adjectives [02:33](https://youtube.com/watch?v=xAkmLFk3B5U&t=153s)
 
 In German, adjectives have three forms: **Positiv** (base), **Komparativ** (comparative - "er"), and **Superlativ** (superlative - "est").
 
@@ -51,7 +51,7 @@ Monosyllabic adjectives with "a", "o", or "u" usually gain an umlaut in the comp
 
 ---
 
-## Comparing Things (Equality and Inequality) [13:26](https://youtube.com/watch?v=xAkmLFk3B5U&t=806s)
+## ⚖️ Comparing Things (Equality and Inequality) [13:26](https://youtube.com/watch?v=xAkmLFk3B5U&t=806s)
 
 ### Equality: (Genauso) ... wie
 Used to say things are the same.
@@ -91,25 +91,25 @@ Used to say one thing is "more" than another.
 
 ---
 
-## Clothing and Accessories (Die Kleidung) [19:46](https://youtube.com/watch?v=xAkmLFk3B5U&t=1186s)
+## 👔 Clothing and Accessories (Die Kleidung) [19:46](https://youtube.com/watch?v=xAkmLFk3B5U&t=1186s)
 
 * **die Kleidung** (the clothing)
-* **die Jacke** (the jacket)
-* **der Mantel** (the coat)
-* **die Mütze** (the beanie/winter hat)
-* **der Anzug** (the suit)
-* **die Krawatte** (the tie)
-* **das Hemd** (the shirt - men's)
-* **die Hose** (the trousers/pants)
-* **der Pullover / der Pulli** (the sweater)
-* **das Kleid** (the dress)
-* **der Stiefel** (the boot - plural: **die Stiefel**)
-* **der Schuh** (the shoe - plural: **die Schuhe**)
+* **die Jacke** 🧥 (the jacket)
+* **der Mantel** 🧥 (the coat)
+* **die Mütze** 🧢 (the beanie/winter hat)
+* **der Anzug** 👔 👔 (the suit)
+* **die Krawatte** 👔 (the tie)
+* **das Hemd** 👕 (the shirt - men's)
+* **die Hose** 👖 (the trousers/pants)
+* **der Pullover / der Pulli** 🧶 (the sweater)
+* **das Kleid** 👗 (the dress)
+* **der Stiefel** 🥾 (the boot - plural: **die Stiefel**)
+* **der Schuh** 👞 (the shoe - plural: **die Schuhe**)
 * **der Rock** (the skirt)
 
 ---
 
-## Accusative Case with Personal Pronouns and Articles [22:51](https://youtube.com/watch?v=xAkmLFk3B5U&t=1371s)
+## 🔢 Accusative Case with Personal Pronouns and Articles [22:51](https://youtube.com/watch?v=xAkmLFk3B5U&t=1371s)
 
 When a noun is the direct object (Akkusativ), only the masculine form changes.
 
@@ -125,7 +125,7 @@ When a noun is the direct object (Akkusativ), only the masculine form changes.
 
 ---
 
-## Verbs with Two Objects (Dative + Accusative) [32:51](https://youtube.com/watch?v=xAkmLFk3B5U&t=1971s)
+## 🎁 Verbs with Two Objects (Dative + Accusative) [32:51](https://youtube.com/watch?v=xAkmLFk3B5U&t=1971s)
 
 Verbs like **empfehlen** (to recommend) or **zeigen** (to show) often have two objects:
 1. The **Person** (Dative).
@@ -162,7 +162,7 @@ These words take the same endings as the definite articles (der, das, die).
 
 ---
 
-## Nationalities and People [52:12](https://youtube.com/watch?v=xAkmLFk3B5U&t=3132s)
+## 🌍 Nationalities and People [52:12](https://youtube.com/watch?v=xAkmLFk3B5U&t=3132s)
 
 | Country | Male | Female | Plural (General) |
 | :--- | :--- | :--- | :--- |

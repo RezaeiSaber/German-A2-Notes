@@ -4,7 +4,7 @@ This lesson covers high-level A2 topics: Comparison of adjectives (Komparativ & 
 
 ---
 
-## 1. Comparison of Adjectives: Komparativ & Superlativ [02:36](https://youtube.com/watch?v=3DX79ZqCXfw&t=156s)
+## 1. 📈 Comparison of Adjectives: Komparativ & Superlativ [02:36](https://youtube.com/watch?v=3DX79ZqCXfw&t=156s)
 
 Adjectives have three levels: **Positiv** (base form), **Komparativ** (comparative - "more"), and **Superlativ** (superlative - "most").
 
@@ -47,7 +47,7 @@ Many one-syllable adjectives with **a, o, u** take an umlaut in comparison.
 
 ---
 
-## 2. Comparing Things: Equal and Unequal [07:48](https://youtube.com/watch?v=3DX79ZqCXfw&t=468s)
+## 2. ⚖️ Comparing Things: Equal and Unequal [07:48](https://youtube.com/watch?v=3DX79ZqCXfw&t=468s)
 
 ### Comparisons of Equality (Equal) [08:06](https://youtube.com/watch?v=3DX79ZqCXfw&t=486s)
 
@@ -76,23 +76,23 @@ Many one-syllable adjectives with **a, o, u** take an umlaut in comparison.
 
 ---
 
-## 3. Body Parts and Health [12:01](https://youtube.com/watch?v=3DX79ZqCXfw&t=721s)
+## 3. 🫀 Body Parts and Health [12:01](https://youtube.com/watch?v=3DX79ZqCXfw&t=721s)
 
 ### Vocabulary: Organs and Parts
-* **das Herz** (the heart)
+* **das Herz** ❤️ (the heart)
 * **der Magen (die Mägen)** (the stomach)
-* **der Zahn (die Zähne)** (the tooth)
+* **der Zahn (die Zähne)** 🦷 (the tooth)
 * **der Rücken** (the back)
 * **der Hals** (the throat/neck)
-* **der Kopf** (the head)
+* **der Kopf** 🧠 (the head)
 
 ### Expressing Pain and Illness [14:22](https://youtube.com/watch?v=3DX79ZqCXfw&t=862s)
 
 There are two primary ways to say something hurts:
 
 1.  **Using "haben" + [Body Part] + "schmerzen":**
-    * **Ich habe Kopfschmerzen.** (I have a headache.) [14:46](https://youtube.com/watch?v=3DX79ZqCXfw&t=886s)
-    * **Ich habe Zahnschmerzen.** (I have a toothache.)
+    * **Ich habe Kopfschmerzen.** 🤕 (I have a headache.) [14:46](https://youtube.com/watch?v=3DX79ZqCXfw&t=886s)
+    * **Ich habe Zahnschmerzen.** 🤕 (I have a toothache.)
 
 2.  **Using "wehtun" (separable verb):**
     * **Mein Kopf tut weh.** (My head hurts.) [14:34](https://youtube.com/watch?v=3DX79ZqCXfw&t=874s)

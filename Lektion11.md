@@ -4,11 +4,11 @@ This lesson introduces the Passive Voice (Passiv) in various forms, verb-preposi
 
 ---
 
-## Passive Voice (Passiv) [00:01:00](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=60s)
+## 🔄 Passive Voice (Passiv) [00:01:00](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=60s)
 
 The passive voice is used when the action or the object of the action is more important than who is performing it. The grammatical subject of an active sentence (the "doer") becomes unimportant or is omitted, and the direct object (Accusative) becomes the new subject (Nominative).
 
-### 1. Passive Present (Passiv Präsens) [00:02:33](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=153s)
+### 1. ▶️ Passive Present (Passiv Präsens) [00:02:33](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=153s)
 Used for actions happening now.
 **Formula:** `Subject (old object) + werden (conjugated) + Partizip II (at the end)`
 
@@ -38,7 +38,7 @@ Used for actions happening now.
 * **Der Kredit wird am Schalter beantragt.** (The credit is being applied for at the counter.)
 * **Das Bankgeschäft wird online gemacht.** (The banking business is being done online.)
 
-### 2. Passive Past (Passiv Präteritum) [00:10:41](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=641s)
+### 2. ⏪ Passive Past (Passiv Präteritum) [00:10:41](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=641s)
 Used for completed actions in the past.
 **Formula:** `Subject + wurden (conjugated) + Partizip II`
 
@@ -60,7 +60,7 @@ Used for completed actions in the past.
 * **Der Kredit wurde letzten Monat zurückgezahlt.** (The credit was paid back last month.)
 * **Das Budget wurde im Bankgeschäft besprochen.** (The budget was discussed in the banking business.)
 
-### 3. State Passive (Zustandspassiv) [00:17:18](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1038s)
+### 3. ✅ State Passive (Zustandspassiv) [00:17:18](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1038s)
 Focuses on the *result* or *state* of an action that happened in the past.
 **Formula:** `Subject + sein (conjugated) + Partizip II`
 
@@ -81,7 +81,7 @@ Focuses on the *result* or *state* of an action that happened in the past.
 
 ---
 
-## The Verb "Es geht um..." (It's about...) [00:23:10](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1390s)
+## 🎯 The Verb "Es geht um..." (It's about...) [00:23:10](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1390s)
 
 The expression **"Es geht um + Akkusativ"** is used to describe the topic or what something is related to.
 
@@ -94,10 +94,10 @@ The expression **"Es geht um + Akkusativ"** is used to describe the topic or wha
 
 ---
 
-## Practical Vocabulary & Banking [00:29:24](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1764s)
+## 💰 Practical Vocabulary & Banking [00:29:24](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1764s)
 
-* **Geld sparen:** To save money.
-* **Das Sparschwein:** Piggy bank. [00:30:00](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1800s)
+* **Geld sparen:** 🐷 To save money.
+* **Das Sparschwein:** 🐷 Piggy bank. [00:30:00](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1800s)
 * **Überweisen:** To transfer money (Partizip II: *überwiesen*). [00:30:30](https://www.youtube.com/watch?v=JrIi8ZOcedg&t=1830s)
 * **Wechseln vs. Tauschen:**
     * *Wechseln:* To change/replace (e.g., *Ich wechsle meinen Job* - I change my job).

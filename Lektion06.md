@@ -4,7 +4,7 @@ This lesson covers highly important A2 grammar topics including reflexive verbs,
 
 ---
 
-## 1. Reflexive Verbs (Reflexive Verben) [01:31](https://www.youtube.com/watch?v=wJzKKNM51nM&t=91s)
+## 1. 🪞 Reflexive Verbs (Reflexive Verben) [01:31](https://www.youtube.com/watch?v=wJzKKNM51nM&t=91s)
 
 Reflexive verbs are verbs where the action reflects back to the subject. In German, these verbs are accompanied by a reflexive pronoun.
 
@@ -37,7 +37,7 @@ In a standard sentence, the reflexive pronoun usually occupies the third positio
 
 ---
 
-## 2. Verbs with Prepositions [04:08](https://www.youtube.com/watch?v=wJzKKNM51nM&t=248s)
+## 2. 🔗 Verbs with Prepositions [04:08](https://www.youtube.com/watch?v=wJzKKNM51nM&t=248s)
 
 Many German verbs are linked to specific prepositions that dictate the case (Accusative or Dative) of the following noun.
 
@@ -78,7 +78,7 @@ Many German verbs are linked to specific prepositions that dictate the case (Acc
 
 ---
 
-## 3. The Genitive Case (Genitiv) [12:32](https://www.youtube.com/watch?v=wJzKKNM51nM&t=752s)
+## 3. 👑 The Genitive Case (Genitiv) [12:32](https://www.youtube.com/watch?v=wJzKKNM51nM&t=752s)
 
 The Genitive is used primarily to show possession or with specific prepositions like **während** (during).
 
@@ -101,7 +101,7 @@ The Genitive is used primarily to show possession or with specific prepositions 
 
 ---
 
-## 4. Formal Letter Writing (Formales Schreiben) [27:00](https://www.youtube.com/watch?v=wJzKKNM51nM&t=1620s)
+## 4. ✉️ Formal Letter Writing (Formales Schreiben) [27:00](https://www.youtube.com/watch?v=wJzKKNM51nM&t=1620s)
 
 When writing formal emails or letters in German, specific salutations and closings are required.
 
@@ -120,7 +120,7 @@ When writing formal emails or letters in German, specific salutations and closin
 
 ---
 
-## 5. Temporal Preposition: "in" + Dative [32:21](https://www.youtube.com/watch?v=wJzKKNM51nM&t=1941s)
+## 5. ⏰ Temporal Preposition: "in" + Dative [32:21](https://www.youtube.com/watch?v=wJzKKNM51nM&t=1941s)
 
 To say "in [amount of time]" (meaning after that time has passed), use **in + Dative**.
 
@@ -131,20 +131,20 @@ To say "in [amount of time]" (meaning after that time has passed), use **in + Da
 
 ---
 
-## 6. Vocabulary & Practical Terms [11:15](https://www.youtube.com/watch?v=wJzKKNM51nM&t=675s)
+## 6. 🎨 Vocabulary & Practical Terms [11:15](https://www.youtube.com/watch?v=wJzKKNM51nM&t=675s)
 
-* **die Kunst** (art) / **der Künstler** (male artist) / **die Künstlerin** (female artist)
-* **singen** (to sing) -> *gesungen* (past participle)
-* **der Schauspieler** (male actor) / **die Schauspielerin** (female actor)
+* **die Kunst** 🎨 (art) / **der Künstler** (male artist) / **die Künstlerin** (female artist)
+* **singen** 🎤 (to sing) -> *gesungen* (past participle)
+* **der Schauspieler** 🎭 (male actor) / **die Schauspielerin** (female actor)
 * **schauspielern** (to act) - Can also mean to "pretend" or "fake it."
-* **malen** (to paint)
+* **malen** 🖌️ (to paint)
 * **das Graffiti** (graffiti)
-* **sauber** (clean) vs. **schmutzig / dreckig** (dirty)
-* **kaputt** (broken / very exhausted)
+* **sauber** ✨ (clean) vs. **schmutzig / dreckig** (dirty)
+* **kaputt** 🚫 (broken / very exhausted)
 * **furchtbar** (terrible/horrible)
-* **der Unfall** (accident)
-* **stark** (strong) vs. **schwach** (weak)
-* **die Brücke** (bridge)
+* **der Unfall** 🚗 (accident)
+* **stark** 💪 (strong) vs. **schwach** (weak)
+* **die Brücke** 🌉 (bridge)
 * **die Mauer** (wall - usually outside/large) vs. **die Wand** (wall - inside a house)
 * **wahrscheinlich** (probably) vs. **vielleicht** (maybe)
 

@@ -4,7 +4,7 @@ This lesson covers a wide range of essential A2 topics, including the versatile 
 
 ---
 
-## 1. The Verb "lassen" (To let / To leave / To have something done) [01:37](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=97s)
+## 1. 🔑 The Verb "lassen" (To let / To leave / To have something done) [01:37](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=97s)
 
 The verb **lassen** is extremely important and acts similarly to modal verbs in sentence structure: it takes position II, and the main action (infinitive) goes to the end of the sentence.
 
@@ -44,18 +44,18 @@ The verb **lassen** is extremely important and acts similarly to modal verbs in 
 
 ---
 
-## 2. Navigating the Shopping Center (Vocabulary) [10:22](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=622s)
+## 2. 🛍️ Navigating the Shopping Center (Vocabulary) [10:22](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=622s)
 
-* **das Einkaufszentrum** (the shopping center)
-* **der Eingang / die Einfahrt** (the entrance / vehicle entrance)
-* **der Ausgang / die Ausfahrt** (the exit / vehicle exit)
+* **das Einkaufszentrum** 🏬 (the shopping center)
+* **der Eingang / die Einfahrt** 🚻 (the entrance / vehicle entrance)
+* **der Ausgang / die Ausfahrt** 🚪 (the exit / vehicle exit)
 * **das Erdgeschoss (EG)** (the ground floor)
 * **das Untergeschoss (UG)** (the basement floor)
-* **die Tiefgarage** (the underground parking garage)
+* **die Tiefgarage** 🅿️ (the underground parking garage)
 
 ---
 
-## 3. The Genitive Case (Possession) [14:08](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=848s)
+## 3. 👑 The Genitive Case (Possession) [14:08](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=848s)
 
 The Genitive indicates that something belongs to someone or something.
 
@@ -88,7 +88,7 @@ The Genitive indicates that something belongs to someone or something.
 
 ---
 
-## 4. Directional Adverbs: Wo vs. Wohin [30:04](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=1804s)
+## 4. ➡️ Directional Adverbs: Wo vs. Wohin [30:04](https://www.youtube.com/watch?v=zuc5WzhpYNw&t=1804s)
 
 German distinguishes between being in a location (static) and moving toward it (dynamic).
 

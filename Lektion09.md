@@ -4,7 +4,7 @@ This lesson covers major grammar milestones for A2 level German, including Verbs
 
 ---
 
-## 1. Verbs with Two Objects (Dative and Accusative) [02:03](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=123s)
+## 1. 🎁 Verbs with Two Objects (Dative and Accusative) [02:03](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=123s)
 
 In German, some verbs naturally take two objects. The **person** (the recipient) is usually in the **Dative** case, and the **thing** (the object being given/bought) is in the **Accusative** case.
 
@@ -46,7 +46,7 @@ In German, some verbs naturally take two objects. The **person** (the recipient)
 
 ---
 
-## 2. Polite Requests with Konjunktiv II [13:52](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=832s)
+## 2. 🙏 Polite Requests with Konjunktiv II [13:52](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=832s)
 
 The Konjunktiv II forms of "haben" and "sein" are used to make requests more polite or to express things that "would" be nice.
 
@@ -61,25 +61,25 @@ The Konjunktiv II forms of "haben" and "sein" are used to make requests more pol
 
 ---
 
-## 3. Festivals and Celebrations [17:35](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=1055s)
+## 3. 🎉 Festivals and Celebrations [17:35](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=1055s)
 
 ### Key Terms:
-* **das Fest** (the festival/celebration)
+* **das Fest** 🎊 (the festival/celebration)
 * **der Feiertag** (the holiday)
-* **Weihnachten** (Christmas)
-* **Ostern** (Easter)
-* **Silvester** (New Year's Eve)
+* **Weihnachten** 🎄 (Christmas)
+* **Ostern** 🐰 (Easter)
+* **Silvester** 🎆 (New Year's Eve)
 
 ### Comparison: Christmas vs. New Year's Eve [19:48](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=1188s)
 * **Weihnachten ist ein ruhiger Abend.** (Christmas is a quiet evening.)
-* **Die Familie versammelt sich.** (The family gathers.)
-* **Man schenkt sich Geschenke.** (People give each other gifts.)
-* **Silvester ist eine Party.** (New Year's Eve is a party.)
-* **Das Feuerwerk** (The fireworks).
+* **Die Familie versammelt sich.** 👨‍👩‍👧‍👦 (The family gathers.)
+* **Man schenkt sich Geschenke.** 🎁 (People give each other gifts.)
+* **Silvester ist eine Party.** 🎉 (New Year's Eve is a party.)
+* **Das Feuerwerk** 🎆 (The fireworks).
 
 ---
 
-## 4. Direction and Position: draußen vs. raus [22:44](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=1364s)
+## 4. 🧭 Direction and Position: draußen vs. raus [22:44](https://youtube.com/watch?v=Z8ZJfuD3Fus&t=1364s)
 
 German distinguishes between "being outside" and "going outside".
 

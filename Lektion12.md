@@ -4,11 +4,11 @@ This is the final lesson of the A2 level. It covers how to build questions from 
 
 ---
 
-## Pronominal Adverbs: Questions and Pronouns [00:02:14](https://youtu.be/A5GmT3ncqG8&t=134s)
+## 🔗 Pronominal Adverbs: Questions and Pronouns [00:02:14](https://youtu.be/A5GmT3ncqG8&t=134s)
 
 In German, when a verb has a fixed preposition (e.g., *warten auf*, *träumen von*), we create questions and pronouns specifically for **things** (not people) using the structures **Wo(r)-** and **Da(r)-**.
 
-### 1. Questions with "Wo(r) + Preposition" [00:03:14](https://youtu.be/A5GmT3ncqG8&t=194s)
+### 1. ❓ Questions with "Wo(r) + Preposition" [00:03:14](https://youtu.be/A5GmT3ncqG8&t=194s)
 To ask "What ... about?" or "For what?", we combine **wo** + the preposition.
 * **Rule:** If the preposition starts with a vowel (a, e, i, o, u), add an "**r**" in between.
 
@@ -30,7 +30,7 @@ To ask "What ... about?" or "For what?", we combine **wo** + the preposition.
 * **Worüber ärgerst du dich? Über die Baustelle oder die Kreuzung?** (What are you annoyed about? The construction site or the intersection?)
 * **Womit beschäftigst du dich? Mit dem Urlaubsplan oder dem Kalender?** (What are you busy with? The vacation plan or the calendar?)
 
-### 2. Pronouns with "Da(r) + Preposition" [00:06:42](https://youtube.com/watch?v=A5GmT3ncqG8&t=402s)
+### 2. 👉 Pronouns with "Da(r) + Preposition" [00:06:42](https://youtube.com/watch?v=A5GmT3ncqG8&t=402s)
 To say "about that" or "for it", we use **da** + the preposition.
 * **Rule:** If the preposition starts with a vowel, add an "**r**".
 
@@ -46,7 +46,7 @@ To say "about that" or "for it", we use **da** + the preposition.
 * **Er interessiert sich dafür, zelten zu gehen.** (He is interested in going camping.)
 * **Sie ärgern sich darüber, dass das Feuer nicht anzündet.** (They are annoyed that the fire won't light.)
 
-### 3. Reflexive Verbs with Pronominal Adverbs [00:09:58](https://youtube.com/watch?v=A5GmT3ncqG8&t=598s)
+### 3. 🪞 Reflexive Verbs with Pronominal Adverbs [00:09:58](https://youtube.com/watch?v=A5GmT3ncqG8&t=598s)
 * **sich interessieren für (to be interested in):**
   * **Wofür interessiert ihr euch?** (What are you all interested in?) [00:10:33](https://youtube.com/watch?v=A5GmT3ncqG8&t=633s)
 * **sich ärgern über (to be annoyed about):**
@@ -65,7 +65,7 @@ To say "about that" or "for it", we use **da** + the preposition.
 
 ---
 
-## Time Expressions and Duration [00:16:07](https://youtube.com/watch?v=A5GmT3ncqG8&t=967s)
+## ⏰ Time Expressions and Duration [00:16:07](https://youtube.com/watch?v=A5GmT3ncqG8&t=967s)
 
 | Question/Phrase | Meaning | Grammar/Case |
 | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ To say "about that" or "for it", we use **da** + the preposition.
 
 ---
 
-## Verbs of Visiting and Passing [00:27:02](https://youtube.com/watch?v=A5GmT3ncqG8&t=1622s)
+## 🚶 Verbs of Visiting and Passing [00:27:02](https://youtube.com/watch?v=A5GmT3ncqG8&t=1622s)
 
 * **vorbeikommen (to drop by/stop by):**
   * Used for a quick, informal visit.
@@ -91,12 +91,12 @@ To say "about that" or "for it", we use **da** + the preposition.
 
 ---
 
-## Important Locations and Directions [00:29:49](https://youtube.com/watch?v=A5GmT3ncqG8&t=1789s)
+## ✈️ Important Locations and Directions [00:29:49](https://youtube.com/watch?v=A5GmT3ncqG8&t=1789s)
 
-* **in den Süden fahren:** To travel to the south.
+* **in den Süden fahren:** 🌴 To travel to the south.
 * **wo auch immer:** wherever [00:30:07](https://youtube.com/watch?v=A5GmT3ncqG8&t=1807s)
   * **wo es mir auch immer gefällt:** wherever I like it.
-* **durch die Stadt bummeln:** To stroll through the city. [00:30:39](https://youtube.com/watch?v=A5GmT3ncqG8&t=1839s)
+* **durch die Stadt bummeln:** 🚶 To stroll through the city. [00:30:39](https://youtube.com/watch?v=A5GmT3ncqG8&t=1839s)
 
 ---
 

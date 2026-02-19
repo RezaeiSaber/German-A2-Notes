@@ -4,7 +4,7 @@ This lesson covers the essential grammar of Konjunktiv II (subjunctive mood), in
 
 ---
 
-## 1. Introduction to Konjunktiv II [02:50](https://youtube.com/watch?v=h6_9Brp0gIY&t=170s)
+## 1. 🤔 Introduction to Konjunktiv II [02:50](https://youtube.com/watch?v=h6_9Brp0gIY&t=170s)
 
 Konjunktiv II is a verb form used to express things that are not factual at the moment. It is used for:
 * **Wünsche und Träume (Wishes and Dreams):** Things you want but don't have.
@@ -35,7 +35,7 @@ Most Konjunktiv II sentences are built using these three forms + an Infinitive a
 
 ---
 
-## 2. Unreal "If" Sentences (Wenn-Sätze) [07:44](https://youtube.com/watch?v=h6_9Brp0gIY&t=464s)
+## 2. ❓ Unreal "If" Sentences (Wenn-Sätze) [07:44](https://youtube.com/watch?v=h6_9Brp0gIY&t=464s)
 
 When using "wenn" (if), the verb goes to the end of the first clause. The second clause then starts with a verb.
 
@@ -60,7 +60,7 @@ When using "wenn" (if), the verb goes to the end of the first clause. The second
 
 ---
 
-## 3. Modal Verbs in Konjunktiv II [19:50](https://youtube.com/watch?v=h6_9Brp0gIY&t=1190s)
+## 3. 🔑 Modal Verbs in Konjunktiv II [19:50](https://youtube.com/watch?v=h6_9Brp0gIY&t=1190s)
 
 Modal verbs in Konjunktiv II keep their umlauts (if they have them in the infinitive), unlike the Präteritum (simple past).
 
@@ -88,7 +88,7 @@ Modal verbs in Konjunktiv II keep their umlauts (if they have them in the infini
 
 ---
 
-## 4. Past Tense in Konjunktiv II [31:06](https://youtube.com/watch?v=h6_9Brp0gIY&t=1866s)
+## 4. ⏪ Past Tense in Konjunktiv II [31:06](https://youtube.com/watch?v=h6_9Brp0gIY&t=1866s)
 
 To talk about things that *could have* happened in the past, use the past participle (Partizip II) with the Konjunktiv II forms of *haben* or *sein*.
 
@@ -100,7 +100,7 @@ To talk about things that *could have* happened in the past, use the past partic
 
 ---
 
-## 5. Indefinite Pronouns: einer, eines, eine [40:41](https://youtube.com/watch?v=h6_9Brp0gIY&t=2441s)
+## 5. 🔢 Indefinite Pronouns: einer, eines, eine [40:41](https://youtube.com/watch?v=h6_9Brp0gIY&t=2441s)
 
 We use these when we refer to a noun previously mentioned without repeating the noun itself (like "one" or "some" in English).
 
@@ -116,20 +116,20 @@ We use these when we refer to a noun previously mentioned without repeating the 
 
 ---
 
-## 6. Vocabulary & Restaurant Phrases [15:10](https://youtube.com/watch?v=h6_9Brp0gIY&t=910s)
+## 6. 🍴 Vocabulary & Restaurant Phrases [15:10](https://youtube.com/watch?v=h6_9Brp0gIY&t=910s)
 
 ### Dining Out
-* **die Vorspeise (the starter/appetizer)** [15:18](https://youtube.com/watch?v=h6_9Brp0gIY&t=918s)
-* **die Hauptspeise (the main course)** [15:25](https://youtube.com/watch?v=h6_9Brp0gIY&t=925s)
-* **die Nachspeise (the dessert)** [15:36](https://youtube.com/watch?v=h6_9Brp0gIY&t=936s)
-* **das Trinkgeld (the tip)** [18:57](https://youtube.com/watch?v=h6_9Brp0gIY&t=1137s): It is customary to give about 10% in Germany.
+* **die Vorspeise** 🥗 (the starter/appetizer) [15:18](https://youtube.com/watch?v=h6_9Brp0gIY&t=918s)
+* **die Hauptspeise** 🍖 (the main course) [15:25](https://youtube.com/watch?v=h6_9Brp0gIY&t=925s)
+* **die Nachspeise** 🍰 (the dessert) [15:36](https://youtube.com/watch?v=h6_9Brp0gIY&t=936s)
+* **das Trinkgeld** 💵 (the tip) [18:57](https://youtube.com/watch?v=h6_9Brp0gIY&t=1137s): It is customary to give about 10% in Germany.
 
 ### Waste Separation (Mülltrennung) [35:55](https://youtube.com/watch?v=h6_9Brp0gIY&t=2155s)
 Germany has a strict system for separating trash:
-* **der Biomüll:** Organic/food waste.
-* **das Papier:** Paper and cardboard.
-* **der Kunststoff / Plastik:** Plastics.
-* **das Glas:** Glass bottles/jars.
+* **der Biomüll:** 🍎 Organic/food waste.
+* **das Papier:** 📄 Paper and cardboard.
+* **der Kunststoff / Plastik:** ♻️ Plastics.
+* **das Glas:** 🧃 Glass bottles/jars.
 
 ---
 

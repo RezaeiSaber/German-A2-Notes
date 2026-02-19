@@ -4,7 +4,7 @@ This guide covers the entire content of Lesson 3 from the *Starten wir A2* textb
 
 ---
 
-## Introduction to Präteritum [03:39](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=219s)
+## ⏰ Introduction to Präteritum [03:39](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=219s)
 
 In German, there are two main past tenses: **Perfekt** (spoken past) and **Präteritum** (written past). While Perfekt is used in daily conversation, Präteritum is essential for reading books, newspapers, and exams.
 
@@ -16,7 +16,7 @@ In German, there are two main past tenses: **Perfekt** (spoken past) and **Prät
 
 ---
 
-## Regular (Weak) Verbs in Präteritum [05:39](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=339s)
+## 📝 Regular (Weak) Verbs in Präteritum [05:39](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=339s)
 
 If a verb is regular in Perfekt (e.g., *machen* → *gemacht*), it is also regular in Präteritum.
 
@@ -40,7 +40,7 @@ If a verb is regular in Perfekt (e.g., *machen* → *gemacht*), it is also regul
 
 ---
 
-## High-Frequency Präteritum Verbs (Spoken & Written) [12:31](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=751s)
+## ⭐ High-Frequency Präteritum Verbs (Spoken & Written) [12:31](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=751s)
 
 Some verbs are so common that their Präteritum forms are used even in daily speech instead of Perfekt.
 
@@ -68,7 +68,7 @@ Some verbs are so common that their Präteritum forms are used even in daily spe
 
 ---
 
-## Modal Verbs in Präteritum [16:36](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=996s)
+## 🔑 Modal Verbs in Präteritum [16:36](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=996s)
 
 Modal verbs are almost exclusively used in Präteritum when speaking about the past.
 **Rule:** Remove the umlaut (if present) and add the regular Präteritum endings.
@@ -96,7 +96,7 @@ Modal verbs are almost exclusively used in Präteritum when speaking about the p
 
 ---
 
-## Irregular Verbs: denken & kommen [23:51](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1431s)
+## 🔄 Irregular Verbs: denken & kommen [23:51](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1431s)
 
 * **denken (to think) → dachte**
     * **Wir dachten, heute regnet es.** (We thought it would rain today.) [24:45](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1485s)
@@ -106,20 +106,20 @@ Modal verbs are almost exclusively used in Präteritum when speaking about the p
 
 ---
 
-## Family and Relationships (Verwandtschaft) [26:32](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1592s)
+## 👨‍👩‍👧‍👦 Family and Relationships (Verwandtschaft) [26:32](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1592s)
 
 | German | English |
 | :--- | :--- |
 | der Enkel | the grandson |
 | die Enkelin | the granddaughter |
-| der Onkel | the uncle (paternal or maternal) |
-| die Tante | the aunt (paternal or maternal) |
+| der Onkel 👨 | the uncle (paternal or maternal) |
+| die Tante 👩 | the aunt (paternal or maternal) |
 | der Sohn | the son |
 | die Tochter | the daughter (Plural: die Töchter) |
 | der Cousin | the male cousin |
 | die Cousine | the female cousin |
 | die Verwandten | the relatives (Plural) |
-| der Stammbaum | the family tree |
+| der Stammbaum 🌳 | the family tree |
 
 ### Types of Families [28:45](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1725s)
 1.  **Kernfamilie:** Nuclear family (parents and children).
@@ -128,7 +128,7 @@ Modal verbs are almost exclusively used in Präteritum when speaking about the p
 
 ---
 
-## Quantifiers: From None to All [30:43](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1843s)
+## 🔢 Quantifiers: From None to All [30:43](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=1843s)
 
 | German | English | Grammar Note |
 | :--- | :--- | :--- |
@@ -143,7 +143,7 @@ Modal verbs are almost exclusively used in Präteritum when speaking about the p
 
 ---
 
-## Character & Physical Appearance [33:57](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=2037s)
+## 😊 Character & Physical Appearance [33:57](https://www.youtube.com/watch?v=rhNFO3FfyJc&t=2037s)
 
 ### Personality
 * **traurig** (sad) vs. **fröhlich** (cheerful/happy)

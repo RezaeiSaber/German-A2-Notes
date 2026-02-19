@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Grammatical Foundations: Accusative and Dative Review [03:12](https://youtu.be/ahX-vJXZ__Y?t=192s)
+## 1. 📊 Grammatical Foundations: Accusative and Dative Review [03:12](https://youtu.be/ahX-vJXZ__Y?t=192s)
 
 Before diving into new concepts, it is essential to review the article changes in Accusative (direct object) and Dative (indirect object/place) cases.
 
@@ -18,7 +18,7 @@ Before diving into new concepts, it is essential to review the article changes i
 
 ---
 
-## 2. The Concept of Position vs. Movement: "Wo" vs. "Wohin" [05:24](https://youtu.be/ahX-vJXZ__Y?t=324s)
+## 2. 🧭 The Concept of Position vs. Movement: "Wo" vs. "Wohin" [05:24](https://youtu.be/ahX-vJXZ__Y?t=324s)
 
 German distinguishes strictly between being in a location (static) and moving toward a location (dynamic). This determines which case to use with "Two-Way Prepositions" (*Wechselpräpositionen*).
 
@@ -44,7 +44,7 @@ German distinguishes strictly between being in a location (static) and moving to
 
 ---
 
-## 3. Position and Placement Verbs [08:23](https://youtu.be/ahX-vJXZ__Y?t=503s)
+## 3. 📦 Position and Placement Verbs [08:23](https://youtu.be/ahX-vJXZ__Y?t=503s)
 
 There are three main pairs of verbs used to describe where objects are or where they are being put. One verb in each pair is "static" (Dative), and the other is "dynamic" (Accusative).
 
@@ -90,7 +90,7 @@ There are three main pairs of verbs used to describe where objects are or where 
 
 ---
 
-## 4. Two-Way Prepositions (Local Prepositions) [29:04](https://youtu.be/ahX-vJXZ__Y?t=1744s)
+## 4. 🧳 Two-Way Prepositions (Local Prepositions) [29:04](https://youtu.be/ahX-vJXZ__Y?t=1744s)
 
 These prepositions take Dative for location and Accusative for direction.
 
@@ -104,7 +104,7 @@ These prepositions take Dative for location and Accusative for direction.
 
 ---
 
-## 5. Possessive Pronouns in Nominative and Accusative [42:21](https://youtu.be/ahX-vJXZ__Y?t=2541s)
+## 5. 🔐 Possessive Pronouns in Nominative and Accusative [42:21](https://youtu.be/ahX-vJXZ__Y?t=2541s)
 
 Possessive pronouns change their endings based on the gender and case of the noun they belong to.
 
@@ -128,25 +128,25 @@ Only the masculine form changes significantly (**-en**).
 
 ---
 
-## 6. Vocabulary: House and Kitchen [26:12](https://youtu.be/ahX-vJXZ__Y?t=1572s)
+## 6. 🏠 Vocabulary: House and Kitchen [26:12](https://youtu.be/ahX-vJXZ__Y?t=1572s)
 
 The video introduces essential items found in the home and kitchen.
 
 * **In der Küche (In the kitchen):**
-    * *der Löffel* (the spoon)
-    * *die Gabel* (the fork)
-    * *das Messer* (the knife)
-    * *die Tasse* (the cup)
-    * *der Teller* (the plate)
+    * *der Löffel* 🥄 (the spoon)
+    * *die Gabel* 🍴 (the fork)
+    * *das Messer* 🔪 (the knife)
+    * *die Tasse* ☕ (the cup)
+    * *der Teller* 🍽️ (the plate)
     * *das Geschirr* (the dishes)
     * *die Spülmaschine* (the dishwasher)
 * **Furniture and Living:**
     * *der Teppich* (the carpet)
-    * *das Doppelbett* (the double bed)
+    * *das Doppelbett* 🛏️ (the double bed)
     * *die Matratze* (the mattress)
     * *die Waschmaschine* (the washing machine)
-    * *das Sofa / die Couch* (the sofa/couch)
-    * *die Pflanze* (the plant)
+    * *das Sofa / die Couch* 🛋️ (the sofa/couch)
+    * *die Pflanze* 🌱 (the plant)
 
 ---
 
