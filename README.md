@@ -1,6 +1,6 @@
 # German A2 Learning Notes 📚🇩🇪
 
-Comprehensive study notes for German language learners at the A2 (elementary) level, based on the textbook "Starten Wir A2" and the excellent YouTube teaching series by Hamed Salehi (Deutsch Meutsch).
+Comprehensive study notes for German language learners at the A2 (elementary) level, based on the textbook "Starten Wir A2" and the excellent YouTube teaching series by Deutsch Meutsch.
 
 ⚠️ **IMPORTANT**: These are personal study notes, NOT the official textbook. Please purchase the official "Starten Wir A2" textbook for complete learning materials. These notes serve only as supplementary materials for students already using the textbook and following the course.
 
@@ -8,7 +8,7 @@ Comprehensive study notes for German language learners at the A2 (elementary) le
 
 ## 📖 About This Repository
 
-These notes were created as personal study materials while following along with Hamed Salehi's German A2 course on YouTube (Deutsch Meutsch channel). The A2 level is grammar-intensive and builds the crucial foundation for B1 and B2 levels. The lessons cover advanced German grammar, expanded vocabulary, complex sentence structures, and more sophisticated communication skills structured around the "Starten Wir A2" curriculum.
+These notes were created as personal study materials while following along with the German A2 course on the Deutsch Meutsch YouTube channel. The A2 level is grammar-intensive and builds the crucial foundation for B1 and B2 levels. The lessons cover advanced German grammar, expanded vocabulary, complex sentence structures, and more sophisticated communication skills structured around the "Starten Wir A2" curriculum.
 
 Each lesson file includes:
 
@@ -42,7 +42,7 @@ Each lesson file includes:
 
 ## 🎯 How to Use These Notes
 
-1. **Watch the video first**: Use the YouTube timestamps to follow along with Hamed Salehi's lessons on the [Deutsch Meutsch channel](https://www.youtube.com/@Deutsch-Meutsch)
+1. **Watch the video first**: Use the YouTube timestamps to follow along with the lessons on the [Deutsch Meutsch channel](https://www.youtube.com/@Deutsch-Meutsch)
 2. **Review the notes**: Read through the corresponding lesson file for reinforcement and structured review
 3. **Practice grammar patterns**: Work through the examples and create your own sentences
 4. **Master verb conjugations**: Practice the conjugation and declension tables regularly
@@ -54,7 +54,7 @@ Each lesson file includes:
 ## 🎓 Credits & Attribution
 
 ### Instructor
-These notes are based on the German language instruction by **Hamed Salehi** (Deutsch Meutsch), whose clear teaching style, comprehensive explanations, and structured approach make learning German grammar accessible and enjoyable. All video content belongs to Hamed Salehi.
+These notes are based on the German language instruction by the **Deutsch Meutsch** YouTube channel, whose clear teaching style, comprehensive explanations, and structured approach make learning German grammar accessible and enjoyable. All video content belongs to Deutsch Meutsch.
 
 **YouTube Channel**: [Deutsch Meutsch](https://www.youtube.com/@Deutsch-Meutsch)
 
@@ -82,13 +82,13 @@ The **"Starten Wir A2"** textbook is copyrighted material owned by its publisher
 
 ### Fair Use & Educational Purpose
 - These notes are intended solely for educational and non-commercial use
-- They serve as supplementary study materials to accompany Hamed Salehi's video lessons
+- They serve as supplementary study materials to accompany Deutsch Meutsch's video lessons
 - The "Starten Wir A2" textbook content is property of its respective publisher
 
 ### Disclaimer
 These are personal study notes and interpretations. For complete and accurate learning:
 
-✓ Always refer to Hamed Salehi's original video lessons  
+✓ Always refer to Deutsch Meutsch's original video lessons  
 ✓ Purchase the official "Starten Wir A2" textbook  
 ✓ Consult with qualified language instructors for formal learning
 
@@ -121,8 +121,8 @@ Found a typo or error? Want to add clarifications? Contributions are welcome!
 
 ## 🔗 Resources
 
-- **Hamed Salehi's YouTube Channel**: [Deutsch Meutsch](https://www.youtube.com/@Deutsch-Meutsch)
-- **Starten Wir A2 Playlist**: Check Hamed Salehi's channel for the complete video series
+- **YouTube Channel**: [Deutsch Meutsch](https://www.youtube.com/@Deutsch-Meutsch)
+- **Starten Wir A2 Playlist**: Check the Deutsch Meutsch channel for the complete video series
 - **Practice Resources**: Supplement these notes with language learning apps and practice exercises
 
 ---
@@ -133,7 +133,7 @@ If you find these notes helpful:
 
 - ⭐ Star this repository
 - 🔗 Share it with fellow German learners
-- 📺 Subscribe to [Hamed Salehi's YouTube channel](https://www.youtube.com/@Deutsch-Meutsch)
+- 📺 Subscribe to the [Deutsch Meutsch YouTube channel](https://www.youtube.com/@Deutsch-Meutsch)
 - 💬 Provide feedback through GitHub issues
 
 ---
