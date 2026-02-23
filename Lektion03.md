@@ -199,54 +199,54 @@ Modal verbs are almost exclusively used in Präteritum when speaking about the p
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Enkel | grandson |
-| die Enkelin | granddaughter |
-| der Onkel | uncle |
-| die Tante | aunt |
-| der Sohn | son |
-| die Tochter | daughter |
-| der Cousin | male cousin |
-| die Cousine | female cousin |
-| der Stammbaum | family tree |
-| die Verwandten | relatives |
-| der Kindergarten | kindergarten |
-| die Kindergärtnerin | kindergarten teacher |
-| der Kinderwagen | baby carriage/stroller |
-| die Ausbildung | vocational training/apprenticeship |
-| der Charakter | character |
-| die Persönlichkeit | personality |
-| das Aussehen | appearance |
-| der Bart | beard |
-| der Bekannte | male acquaintance |
-| die Bekannte | female acquaintance |
-| der Nachbar | male neighbor |
-| die Nachbarin | female neighbor |
-| der Regenschirm | umbrella |
-| der Sonnenschirm | parasol |
-| die sozialen Medien | social media |
-| die Zukunft | future |
-| der Brief | letter |
-| traurig | sad |
-| fröhlich | happy/cheerful |
-| glücklich | lucky/happy |
-| faul | lazy |
-| fleißig | hard-working |
-| dumm | stupid |
-| klug | smart |
-| hübsch | pretty |
-| hässlich | ugly |
-| dick | fat/thick |
-| schlank | slim |
-| dünn | thin |
-| gefährlich | dangerous |
-| vorsichtig | cautious/careful |
-| gemeinsam | together |
-| benutzen | to use |
-| wählen | to choose/elect |
-| leihen | to lend/borrow |
-| streiten | to argue |
-| antworten | to answer |
-| glauben | to believe |
-| meinen | to mean/opine |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Enkel | grandson | *Der Enkel besucht seine Oma am Wochenende.* (The grandson visits his grandma on the weekend.) |
+| die Enkelin | granddaughter | *Die Enkelin spielt gern mit der Tante.* (The granddaughter likes to play with the aunt.) |
+| der Onkel | uncle | *Mein Onkel wohnt in einer anderen Stadt.* (My uncle lives in another city.) |
+| die Tante | aunt | *Die Tante hat zwei Kinder und einen Hund.* (The aunt has two children and a dog.) |
+| der Sohn | son | *Ihr Sohn lernt fleißig Deutsch.* (Her son studies German diligently.) |
+| die Tochter | daughter | *Die Tochter war sehr klug in der Schule.* (The daughter was very smart in school.) |
+| der Cousin | male cousin | *Mein Cousin wohnt in Deutschland.* (My male cousin lives in Germany.) |
+| die Cousine | female cousin | *Meine Cousine ist jünger als ich.* (My female cousin is younger than I am.) |
+| der Stammbaum | family tree | *Wir haben den Stammbaum zusammen gemacht.* (We made the family tree together.) |
+| die Verwandten | relatives | *Am Wochenende kommen viele Verwandten.* (Many relatives are coming on the weekend.) |
+| der Kindergarten | kindergarten | *Das Kind geht jeden Tag in den Kindergarten.* (The child goes to kindergarten every day.) |
+| die Kindergärtnerin | kindergarten teacher | *Die Kindergärtnerin ist sympathisch und fröhlich.* (The kindergarten teacher is likable and cheerful.) |
+| der Kinderwagen | baby carriage/stroller | *Die Mutter schiebt den Kinderwagen im Park.* (The mother pushes the stroller in the park.) |
+| die Ausbildung | vocational training/apprenticeship | *Mein Bruder macht eine Ausbildung als Kaufmann.* (My brother is doing an apprenticeship as a businessman.) |
+| der Charakter | character | *Sie hat einen wunderschönen Charakter.* (She has a wonderful character.) |
+| die Persönlichkeit | personality | *Er hat eine starke Persönlichkeit.* (He has a strong personality.) |
+| das Aussehen | appearance | *Das Aussehen ist nicht so wichtig wie der Charakter.* (Appearance is not as important as character.) |
+| der Bart | beard | *Mein Onkel hat einen langen Bart.* (My uncle has a long beard.) |
+| der Bekannte | male acquaintance | *Ein Bekannter hat mir den Tipp gegeben.* (A male acquaintance gave me the tip.) |
+| die Bekannte | female acquaintance | *Eine Bekannte von mir arbeitet im Reisebüro.* (A female acquaintance of mine works at the travel agency.) |
+| der Nachbar | male neighbor | *Der Nachbar ist sehr nett und hilft uns oft.* (The male neighbor is very nice and often helps us.) |
+| die Nachbarin | female neighbor | *Die Nachbarin hat ein Baby bekommen.* (The female neighbor had a baby.) |
+| der Regenschirm | umbrella | *Ich nehme den Regenschirm mit, weil es regnet.* (I'm taking the umbrella because it's raining.) |
+| der Sonnenschirm | parasol | *Wir sitzen unter dem Sonnenschirm am Strand.* (We sit under the parasol on the beach.) |
+| die sozialen Medien | social media | *Viele Leute benutzen die sozialen Medien täglich.* (Many people use social media daily.) |
+| die Zukunft | future | *In der Zukunft möchte ich in Deutschland leben.* (In the future I want to live in Germany.) |
+| der Brief | letter | *Sie hat einen Brief an ihre Tante geschrieben.* (She wrote a letter to her aunt.) |
+| traurig | sad | *Das Kind war traurig, weil der Hund krank war.* (The child was sad because the dog was sick.) |
+| fröhlich | happy/cheerful | *Der Enkel ist immer fröhlich und lustig.* (The grandson is always cheerful and funny.) |
+| glücklich | lucky/happy | *Wir waren sehr glücklich bei der Hochzeit.* (We were very happy at the wedding.) |
+| faul | lazy | *Er war faul und hat nicht gelernt.* (He was lazy and didn't study.) |
+| fleißig | hard-working | *Die Tochter war fleißig in der Ausbildung.* (The daughter was hard-working in her apprenticeship.) |
+| dumm | stupid | *Das war eine dumme Idee.* (That was a stupid idea.) |
+| klug | smart | *Meine Cousine ist sehr klug.* (My female cousin is very smart.) |
+| hübsch | pretty | *Das Kleid ist sehr hübsch.* (The dress is very pretty.) |
+| hässlich | ugly | *Das alte Gebäude sieht hässlich aus.* (The old building looks ugly.) |
+| dick | fat/thick | *Das Buch ist sehr dick.* (The book is very thick.) |
+| schlank | slim | *Sie ist schlank und sportlich.* (She is slim and athletic.) |
+| dünn | thin | *Das Papier ist sehr dünn.* (The paper is very thin.) |
+| gefährlich | dangerous | *Das ist gefährlich! Pass auf!* (That is dangerous! Watch out!) |
+| vorsichtig | cautious/careful | *Sei vorsichtig auf der Straße!* (Be careful on the street!) |
+| gemeinsam | together | *Wir machen das gemeinsam.* (We do that together.) |
+| benutzen | to use | *Ich benutze die sozialen Medien jeden Tag.* (I use social media every day.) |
+| wählen | to choose/elect | *Wir wählen den neuen Chef morgen.* (We elect the new boss tomorrow.) |
+| leihen | to lend/borrow | *Kannst du mir deinen Regenschirm leihen?* (Can you lend me your umbrella?) |
+| streiten | to argue | *Die Geschwister haben oft gestritten.* (The siblings often argued.) |
+| antworten | to answer | *Er hat auf die Frage nicht geantwortet.* (He didn't answer the question.) |
+| glauben | to believe | *Ich glaube, dass sie fleißig ist.* (I believe that she is hard-working.) |
+| meinen | to mean/opine | *Was meinst du dazu?* (What do you think about that?) |

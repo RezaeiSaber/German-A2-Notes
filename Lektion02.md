@@ -93,19 +93,19 @@ Used to say one thing is "more" than another.
 
 ## 👔 Clothing and Accessories (Die Kleidung) [19:46](https://youtube.com/watch?v=xAkmLFk3B5U&t=1186s)
 
-* **die Kleidung** (the clothing)
-* **die Jacke** 🧥 (the jacket)
-* **der Mantel** 🧥 (the coat)
-* **die Mütze** 🧢 (the beanie/winter hat)
-* **der Anzug** 👔 👔 (the suit)
-* **die Krawatte** 👔 (the tie)
-* **das Hemd** 👕 (the shirt - men's)
-* **die Hose** 👖 (the trousers/pants)
-* **der Pullover / der Pulli** 🧶 (the sweater)
-* **das Kleid** 👗 (the dress)
-* **der Stiefel** 🥾 (the boot - plural: **die Stiefel**)
-* **der Schuh** 👞 (the shoe - plural: **die Schuhe**)
-* **der Rock** (the skirt)
+* **die Kleidung** (the clothing) — *Die Kleidung im Winter muss warm sein.* (Clothing in winter must be warm.)
+* **die Jacke** 🧥 (the jacket) — *Ich trage heute eine rote Jacke.* (I am wearing a red jacket today.)
+* **der Mantel** 🧥 (the coat) — *Ihr Mantel ist wärmer als meine Jacke.* (Her coat is warmer than my jacket.)
+* **die Mütze** 🧢 (the beanie/winter hat) — *Im Winter trage ich immer eine Mütze.* (In winter I always wear a beanie.)
+* **der Anzug** 👔 👔 (the suit) — *Er trägt einen schwarzen Anzug zur Arbeit.* (He wears a black suit to work.)
+* **die Krawatte** 👔 (the tie) — *Welche Krawatte passt zu diesem Hemd?* (Which tie matches this shirt?)
+* **das Hemd** 👕 (the shirt - men's) — *Das blaue Hemd steht dir sehr gut.* (The blue shirt suits you very well.)
+* **die Hose** 👖 (the trousers/pants) — *Diese Hose ist zu eng für mich.* (These trousers are too tight for me.)
+* **der Pullover / der Pulli** 🧶 (the sweater) — *Ich kaufe einen neuen Pullover, weil es kalt ist.* (I'm buying a new sweater because it's cold.)
+* **das Kleid** 👗 (the dress) — *Das rote Kleid ist schöner als der blaue Rock.* (The red dress is more beautiful than the blue skirt.)
+* **der Stiefel** 🥾 (the boot - plural: **die Stiefel**) — *Ihre Stiefel sind dunkler als ihre Schuhe.* (Her boots are darker than her shoes.)
+* **der Schuh** 👞 (the shoe - plural: **die Schuhe**) — *Ich suche neue Schuhe für die Arbeit.* (I'm looking for new shoes for work.)
+* **der Rock** (the skirt) — *Der Rock ist kürzer als die Hose.* (The skirt is shorter than the trousers.)
 
 ---
 
@@ -211,63 +211,63 @@ These words take the same endings as the definite articles (der, das, die).
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Anzug | the suit |
-| der Mantel | the coat |
-| die Mütze | the winter hat/beanie |
-| das Hemd | the shirt |
-| die Hose | the trousers |
-| das Kleid | the dress |
-| der Rock | the skirt |
-| der Stiefel | the boot |
-| der Schuh | the shoe |
-| der Pullover | the sweater |
-| die Krawatte | the tie |
-| die Kleidung | the clothing |
-| die Brille | the glasses |
-| die Sonnenbrille | the sunglasses |
-| der Bart | the beard |
-| der Schmuck | the jewelry |
-| der Ring | the ring |
-| der Ohrring | the earring |
-| die Kette | the necklace |
-| das Kaufhaus | the department store |
-| das Geschäft | the shop |
-| der Laden | the store |
-| die Boutique | the boutique |
-| die Mode | the fashion |
-| das Outfit | the outfit |
-| bequem | comfortable |
-| eng | tight |
-| weit | wide/loose |
-| hell | bright/light |
-| dunkel | dark |
-| teuer | expensive |
-| billig | cheap |
-| nett | nice/kind |
-| freundlich | friendly |
-| lustig | funny |
-| sympathisch | likable |
-| erfolgreich | successful |
-| zufrieden | satisfied |
-| die Größe | the size |
-| der Einwohner | the inhabitant |
-| die Herkunft | the origin |
-| der Künstler | the artist (male) |
-| die Künstlerin | the artist (female) |
-| produzieren | to produce |
-| empfehlen | to recommend |
-| zeigen | to show |
-| passen | to fit |
-| stehen | to suit |
-| tragen | to wear / to carry |
-| aussehen | to look / appear |
-| spazierengehen | to go for a walk |
-| bedeuten | to mean |
-| die Bedeutung | the meaning |
-| ziemlich | quite / relatively |
-| schrecklich | terrible |
-| natürlich | naturally |
-| beide | both |
-| zusammen | together |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Anzug | the suit | *Er trägt einen dunklen Anzug zur Arbeit.* (He wears a dark suit to work.) |
+| der Mantel | the coat | *Ihr Mantel ist wärmer als meine Jacke.* (Her coat is warmer than my jacket.) |
+| die Mütze | the winter hat/beanie | *Im Winter trage ich immer eine Mütze.* (In winter I always wear a beanie.) |
+| das Hemd | the shirt | *Das blaue Hemd steht dir sehr gut.* (The blue shirt suits you very well.) |
+| die Hose | the trousers | *Diese Hose ist zu eng für mich.* (These trousers are too tight for me.) |
+| das Kleid | the dress | *Das rote Kleid ist schöner als der blaue Rock.* (The red dress is more beautiful than the blue skirt.) |
+| der Rock | the skirt | *Der Rock ist kürzer als die Hose.* (The skirt is shorter than the trousers.) |
+| der Stiefel | the boot | *Ihre Stiefel sind dunkler als ihre Schuhe.* (Her boots are darker than her shoes.) |
+| der Schuh | the shoe | *Ich suche neue Schuhe für die Arbeit.* (I'm looking for new shoes for work.) |
+| der Pullover | the sweater | *Ich kaufe einen neuen Pullover, weil es kalt ist.* (I'm buying a new sweater because it's cold.) |
+| die Krawatte | the tie | *Welche Krawatte passt zu diesem Hemd?* (Which tie matches this shirt?) |
+| die Kleidung | the clothing | *Die Kleidung im Winter muss warm sein.* (Clothing in winter must be warm.) |
+| die Brille | the glasses | *Er trägt eine Brille seit zwei Jahren.* (He has been wearing glasses for two years.) |
+| die Sonnenbrille | the sunglasses | *Ich brauche eine Sonnenbrille im Sommer.* (I need sunglasses in summer.) |
+| der Bart | the beard | *Er hat seit einem Monat einen langen Bart.* (He has had a long beard for a month.) |
+| der Schmuck | the jewelry | *Sie trägt heute viel Schmuck.* (She is wearing a lot of jewelry today.) |
+| der Ring | the ring | *Er schenkt ihr einen goldenen Ring.* (He gives her a golden ring as a gift.) |
+| der Ohrring | the earring | *Ihre Ohrringe sind sehr elegant.* (Her earrings are very elegant.) |
+| die Kette | the necklace | *Die goldene Kette ist ein Geschenk von ihrer Oma.* (The golden necklace is a gift from her grandma.) |
+| das Kaufhaus | the department store | *Im Kaufhaus gibt es Kleidung auf allen Etagen.* (In the department store there is clothing on every floor.) |
+| das Geschäft | the shop | *Das Geschäft öffnet um 9 Uhr.* (The shop opens at 9 o'clock.) |
+| der Laden | the store | *Der Laden verkauft günstige Kleidung.* (The store sells affordable clothing.) |
+| die Boutique | the boutique | *Die Boutique in der Innenstadt ist sehr teuer.* (The boutique in the city center is very expensive.) |
+| die Mode | the fashion | *Sie interessiert sich sehr für Mode.* (She is very interested in fashion.) |
+| das Outfit | the outfit | *Dein Outfit heute ist sehr schön.* (Your outfit today is very beautiful.) |
+| bequem | comfortable | *Diese Schuhe sind sehr bequem.* (These shoes are very comfortable.) |
+| eng | tight | *Die Hose ist zu eng für mich.* (The trousers are too tight for me.) |
+| weit | wide/loose | *Ich trage lieber weite Kleidung.* (I prefer to wear loose clothing.) |
+| hell | bright/light | *Das helle Hemd gefällt mir besser.* (I like the bright shirt better.) |
+| dunkel | dark | *Er trägt dunkle Kleidung zur Arbeit.* (He wears dark clothing to work.) |
+| teuer | expensive | *Der Anzug ist teurer als die Hose.* (The suit is more expensive than the trousers.) |
+| billig | cheap | *Der Pullover ist billiger als das Hemd.* (The sweater is cheaper than the shirt.) |
+| nett | nice/kind | *Die Verkäuferin ist sehr nett.* (The saleswoman is very nice.) |
+| freundlich | friendly | *Der Mitarbeiter ist immer freundlich.* (The employee is always friendly.) |
+| lustig | funny | *Mein Kollege ist sehr lustig.* (My colleague is very funny.) |
+| sympathisch | likable | *Sie ist sehr sympathisch.* (She is very likable.) |
+| erfolgreich | successful | *Er ist ein sehr erfolgreicher Unternehmer.* (He is a very successful entrepreneur.) |
+| zufrieden | satisfied | *Ich bin mit dem Kauf sehr zufrieden.* (I am very satisfied with the purchase.) |
+| die Größe | the size | *Welche Größe haben Sie?* (What size do you have?) |
+| der Einwohner | the inhabitant | *Wien hat fast zwei Millionen Einwohner.* (Vienna has almost two million inhabitants.) |
+| die Herkunft | the origin | *Welche Herkunft hast du?* (What is your origin?) |
+| der Künstler | the artist (male) | *Der Künstler malt ein neues Bild.* (The artist is painting a new picture.) |
+| die Künstlerin | the artist (female) | *Die Künstlerin stellt ihre Werke aus.* (The female artist exhibits her works.) |
+| produzieren | to produce | *Die Fabrik produziert Kleidung.* (The factory produces clothing.) |
+| empfehlen | to recommend | *Ich empfehle dir diesen Anzug.* (I recommend this suit to you.) |
+| zeigen | to show | *Kannst du mir das Hemd zeigen?* (Can you show me the shirt?) |
+| passen | to fit | *Diese Hose passt mir nicht.* (These trousers don't fit me.) |
+| stehen | to suit | *Das blaue Kleid steht dir sehr gut.* (The blue dress suits you very well.) |
+| tragen | to wear / to carry | *Sie trägt heute einen roten Rock.* (She is wearing a red skirt today.) |
+| aussehen | to look / appear | *Du siehst heute sehr elegant aus.* (You look very elegant today.) |
+| spazierengehen | to go for a walk | *Wir gehen jeden Sonntag spazieren.* (We go for a walk every Sunday.) |
+| bedeuten | to mean | *Was bedeutet dieses Wort?* (What does this word mean?) |
+| die Bedeutung | the meaning | *Die Bedeutung dieses Ausdrucks ist klar.* (The meaning of this expression is clear.) |
+| ziemlich | quite / relatively | *Das ist ziemlich teuer.* (That is quite expensive.) |
+| schrecklich | terrible | *Das Wetter heute ist schrecklich.* (The weather today is terrible.) |
+| natürlich | naturally | *Natürlich komme ich zur Party!* (Of course I am coming to the party!) |
+| beide | both | *Beide Jacken sind schön.* (Both jackets are beautiful.) |
+| zusammen | together | *Wir kaufen zusammen neue Kleidung.* (We buy new clothing together.) |

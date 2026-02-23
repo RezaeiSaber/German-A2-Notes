@@ -143,61 +143,61 @@ Unlike "dass" and "wenn," **deshalb** (therefore/for that reason) creates a **Ha
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| ohne (+ Akk) | without |
-| mit (+ Dat) | with |
-| der Regenschirm | the umbrella |
-| der Plan | the plan / map |
-| das Studium | the university studies |
-| abschließen | to finish / complete / lock |
-| das Praktikum | the internship |
-| der Ausdruck | the expression / phrase |
-| die Idee | the idea |
-| der Sänger / die Sängerin | the singer (m/f) |
-| ansehen | to look at / watch |
-| dass | that (connector) |
-| vergessen | to forget |
-| anrufen | to call (on phone) |
-| schade | a pity / too bad |
-| mitkommen | to come along |
-| wenn | if / when |
-| in kurzer Zeit | in a short time |
-| die Welt | the world |
-| die Weltreise | the world trip |
-| verreisen | to travel away |
-| organisieren | to organize |
-| der Nomade / die Nomadin | the nomad |
-| das Land | the country / countryside |
-| weg | away / gone |
-| weit weg | far away |
-| weiter | further / continue |
-| zurückgeben | to give back |
-| die Einsamkeit | the loneliness |
-| das Heimweh | the homesickness |
-| die Wohnung | the apartment |
-| ohne Nachricht | without news / message |
-| der Flug | the flight |
-| buchen | to book |
-| das Gepäck | the luggage |
-| der Koffer | the suitcase |
-| die Fahrkarte | the ticket |
-| fremd | foreign / strange |
-| das Gehalt | the salary |
-| bekommen | to receive / get |
-| der Reiseblog | the travel blog |
-| der Boss / der Chef | the boss |
-| eigen | own (e.g., my own) |
-| selbstständig | self-employed |
-| vollzeit | full-time |
-| schwer | difficult / heavy |
-| deshalb | therefore |
-| fit bleiben | to stay fit |
-| kündigen | to resign / quit |
-| verkaufen | to sell |
-| der Kaufmann / die Kauffrau | the businessman / woman |
-| das Fach | the subject |
-| das Lieblingsfach | the favorite subject |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| ohne (+ Akk) | without | *Ich kann nicht ohne meinen Kaffee arbeiten.* (I cannot work without my coffee.) |
+| mit (+ Dat) | with | *Ich fahre mit meinem Freund nach Wien.* (I'm traveling with my friend to Vienna.) |
+| der Regenschirm | the umbrella | *Er ist mit seinem Regenschirm spazieren gegangen.* (He went for a walk with his umbrella.) |
+| der Plan | the plan / map | *Ich brauche einen Plan für die Weltreise.* (I need a plan for the world trip.) |
+| das Studium | the university studies | *Sie hat ihr Studium in München abgeschlossen.* (She finished her university studies in Munich.) |
+| abschließen | to finish / complete / lock | *Er möchte sein Studium bald abschließen.* (He wants to finish his studies soon.) |
+| das Praktikum | the internship | *Ich mache ein Praktikum in einer Firma.* (I'm doing an internship in a company.) |
+| der Ausdruck | the expression / phrase | *Das ist ein sehr schöner Ausdruck auf Deutsch.* (That is a very nice expression in German.) |
+| die Idee | the idea | *Das ist eine sehr gute Idee!* (That is a very good idea!) |
+| der Sänger / die Sängerin | the singer (m/f) | *Der Sänger singt sehr schön.* (The singer sings very beautifully.) |
+| ansehen | to look at / watch | *Ich sehe mir jeden Abend eine Serie an.* (I watch a series every evening.) |
+| dass | that (connector) | *Ich denke, dass das Gehalt zu niedrig ist.* (I think that the salary is too low.) |
+| vergessen | to forget | *Er hat vergessen, dass er mich anrufen musste.* (He forgot that he had to call me.) |
+| anrufen | to call (on phone) | *Ich rufe dich morgen an.* (I'll call you tomorrow.) |
+| schade | a pity / too bad | *Es ist schade, dass er nicht mitkommt.* (It is a pity that he is not coming along.) |
+| mitkommen | to come along | *Kannst du heute Abend mitkommen?* (Can you come along this evening?) |
+| wenn | if / when | *Wenn es regnet, bleiben wir zu Hause.* (When it rains, we stay at home.) |
+| in kurzer Zeit | in a short time | *In kurzer Zeit bin ich fertig.* (I'll be done in a short time.) |
+| die Welt | the world | *Er möchte die ganze Welt sehen.* (He wants to see the whole world.) |
+| die Weltreise | the world trip | *Eine Weltreise ist mein größter Traum.* (A world trip is my biggest dream.) |
+| verreisen | to travel away | *Wir verreisen im Sommer nach Spanien.* (We travel away to Spain in summer.) |
+| organisieren | to organize | *Ich muss die Reise gut organisieren.* (I have to organize the trip well.) |
+| der Nomade / die Nomadin | the nomad | *Er lebt wie ein Nomade und reist viel.* (He lives like a nomad and travels a lot.) |
+| das Land | the country / countryside | *Auf dem Land ist die Luft frischer.* (In the countryside the air is fresher.) |
+| weg | away / gone | *Mein Handy ist weg!* (My phone is gone!) |
+| weit weg | far away | *Deutschland ist weit weg von hier.* (Germany is far away from here.) |
+| weiter | further / continue | *Wir fahren weiter nach Berlin.* (We continue on to Berlin.) |
+| zurückgeben | to give back | *Kannst du mir das Buch zurückgeben?* (Can you give me the book back?) |
+| die Einsamkeit | the loneliness | *Die Einsamkeit in der Fremde ist schwer.* (The loneliness abroad is hard.) |
+| das Heimweh | the homesickness | *Ich habe Heimweh nach meiner Familie.* (I am homesick for my family.) |
+| die Wohnung | the apartment | *Die Wohnung hat drei Zimmer und einen Balkon.* (The apartment has three rooms and a balcony.) |
+| ohne Nachricht | without news / message | *Er ist drei Tage ohne Nachricht.* (He is without news for three days.) |
+| der Flug | the flight | *Der Flug nach Berlin dauert zwei Stunden.* (The flight to Berlin takes two hours.) |
+| buchen | to book | *Ich möchte einen Flug nach Wien buchen.* (I would like to book a flight to Vienna.) |
+| das Gepäck | the luggage | *Mein Gepäck ist zu schwer.* (My luggage is too heavy.) |
+| der Koffer | the suitcase | *Ich packe meinen Koffer für die Reise.* (I pack my suitcase for the trip.) |
+| die Fahrkarte | the ticket | *Ich kaufe eine Fahrkarte für den Zug.* (I buy a ticket for the train.) |
+| fremd | foreign / strange | *In einem fremden Land ist alles anders.* (In a foreign country everything is different.) |
+| das Gehalt | the salary | *Das Gehalt ist nicht hoch genug.* (The salary is not high enough.) |
+| bekommen | to receive / get | *Er bekommt sein Gehalt am Ende des Monats.* (He receives his salary at the end of the month.) |
+| der Reiseblog | the travel blog | *Sie schreibt einen Reiseblog über Europa.* (She writes a travel blog about Europe.) |
+| der Boss / der Chef | the boss | *Der Chef hat eine wichtige Entscheidung getroffen.* (The boss made an important decision.) |
+| eigen | own (e.g., my own) | *Ich möchte mein eigenes Geschäft haben.* (I would like to have my own business.) |
+| selbstständig | self-employed | *Mein Vater arbeitet selbstständig.* (My father works self-employed.) |
+| vollzeit | full-time | *Sie arbeitet Vollzeit in einem Büro.* (She works full-time in an office.) |
+| schwer | difficult / heavy | *Der Koffer ist sehr schwer.* (The suitcase is very heavy.) |
+| deshalb | therefore | *Ich bin müde, deshalb gehe ich ins Bett.* (I am tired, therefore I go to bed.) |
+| fit bleiben | to stay fit | *Er macht jeden Tag Sport, um fit zu bleiben.* (He does sports every day to stay fit.) |
+| kündigen | to resign / quit | *Sie hat ihren Job gekündigt.* (She quit her job.) |
+| verkaufen | to sell | *Er verkauft sein altes Auto.* (He is selling his old car.) |
+| der Kaufmann / die Kauffrau | the businessman / woman | *Die Kauffrau arbeitet in einem großen Unternehmen.* (The businesswoman works in a large company.) |
+| das Fach | the subject | *Mein Lieblingsfächer ist Mathematik.* (My favorite subject is Mathematics.) |
+| das Lieblingsfach | the favorite subject | *Was ist dein Lieblingsfach?* (What is your favorite subject?) |
 
 ### Verb Conjugations
 
@@ -371,52 +371,52 @@ Many German verbs are reflexive and require a specific preposition.
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| das Präteritum | simple past tense |
-| die Modalverben | modal verbs |
-| sich erkälten | to catch a cold |
-| aussehen | to look / appear |
-| mitbringen | to bring along |
-| dürfen | to be allowed to |
-| wollen | to want |
-| als | when (one-time past event) |
-| wenn | when / if (repeated/present) |
-| das Kind | the child |
-| trinken | to drink |
-| betrunken | drunk |
-| mögen | to like |
-| sollen | should / supposed to |
-| früher | earlier / in the past |
-| das Fach | the subject |
-| die Sozialkunde | social studies |
-| die Grundschule | elementary school |
-| das Gymnasium | high school |
-| vereinbaren | to agree upon / arrange |
-| der Termin | the appointment |
-| der Fehler | the mistake |
-| zuhören (+ Dat) | to listen to |
-| das Thema / die Themen | the topic / topics |
-| der Unterricht | the instruction / lesson |
-| vorbereiten | to prepare |
-| sich freuen auf/über | to be happy about |
-| der Besuch | the visit |
-| sich interessieren für | to be interested in |
-| sich bewerben um | to apply for |
-| das Zeugnis | the report card / certificate |
-| die Stelle | the job position |
-| die Technik | technique / technology |
-| die Kasse | the checkout / cash register |
-| beginnen mit | to start with |
-| formell / informell | formal / informal |
-| am Ende | in the end |
-| die Unterschrift | the signature |
-| eigen | own |
-| das Foto-Studio | photo studio |
-| der Wahnsinn / wahnsinnig | madness / crazy |
-| die Kirche | the church |
-| das Tor | the gate / goal (soccer) |
-| der Kontinent | the continent |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| das Präteritum | simple past tense | *Im Präteritum sagt man "ich war" statt "ich bin gewesen".* (In the simple past one says "ich war" instead of "ich bin gewesen".) |
+| die Modalverben | modal verbs | *Modalverben wie "können" und "müssen" sind sehr wichtig.* (Modal verbs like "can" and "must" are very important.) |
+| sich erkälten | to catch a cold | *Ich habe mich gestern erkältet.* (I caught a cold yesterday.) |
+| aussehen | to look / appear | *Er sieht müde aus, weil er lange arbeiten musste.* (He looks tired because he had to work for a long time.) |
+| mitbringen | to bring along | *Wer musste das Essen mitbringen?* (Who was supposed to bring the food along?) |
+| dürfen | to be allowed to | *Als Kind durfte ich immer auf der Straße spielen.* (As a child I was always allowed to play on the street.) |
+| wollen | to want | *Er wollte nach Deutschland gehen, aber er konnte nicht.* (He wanted to go to Germany but he couldn't.) |
+| als | when (one-time past event) | *Als ich ein Kind war, hatte ich ein Fahrrad.* (When I was a child, I had a bicycle.) |
+| wenn | when / if (repeated/present) | *Wenn ich krank bin, gehe ich zum Arzt.* (When I am sick, I go to the doctor.) |
+| das Kind | the child | *Das Kind spielt draussen.* (The child plays outside.) |
+| trinken | to drink | *Als Kind durfte ich keine Cola trinken.* (As a child I was not allowed to drink cola.) |
+| betrunken | drunk | *Er war betrunken und konnte nicht fahren.* (He was drunk and couldn't drive.) |
+| mögen | to like | *Früher mochte ich kein Gemüse.* (Earlier I didn't like any vegetables.) |
+| sollen | should / supposed to | *Du solltest früher aufstehen.* (You should wake up earlier.) |
+| früher | earlier / in the past | *Früher konnte ich besser schlafen.* (Earlier I could sleep better.) |
+| das Fach | the subject | *Biologie war mein Lieblingsfach.* (Biology was my favorite subject.) |
+| die Sozialkunde | social studies | *In der Schule hatte ich Sozialkunde.* (At school I had social studies.) |
+| die Grundschule | elementary school | *Er geht noch in die Grundschule.* (He still goes to elementary school.) |
+| das Gymnasium | high school | *Sie möchte auf das Gymnasium gehen.* (She wants to go to high school.) |
+| vereinbaren | to agree upon / arrange | *Wir haben einen Termin vereinbart.* (We have arranged an appointment.) |
+| der Termin | the appointment | *Ich habe morgen einen Termin beim Zahnarzt.* (I have an appointment at the dentist tomorrow.) |
+| der Fehler | the mistake | *Ich habe einen Fehler gemacht.* (I made a mistake.) |
+| zuhören (+ Dat) | to listen to | *Die Schüler hören dem Lehrer zu.* (The students listen to the teacher.) |
+| das Thema / die Themen | the topic / topics | *Das Thema der Stunde ist interessant.* (The topic of the lesson is interesting.) |
+| der Unterricht | the instruction / lesson | *Der Unterricht beginnt um acht Uhr.* (The lesson begins at eight o'clock.) |
+| vorbereiten | to prepare | *Ich bereite mich auf die Prüfung vor.* (I prepare for the exam.) |
+| sich freuen auf/über | to be happy about | *Ich freue mich auf das Wochenende.* (I am looking forward to the weekend.) |
+| der Besuch | the visit | *Der Besuch meiner Familie war sehr schön.* (The visit of my family was very nice.) |
+| sich interessieren für | to be interested in | *Er interessiert sich für Geschichte.* (He is interested in history.) |
+| sich bewerben um | to apply for | *Sie bewirbt sich um eine neue Stelle.* (She is applying for a new job position.) |
+| das Zeugnis | the report card / certificate | *Sein Zeugnis war sehr gut.* (His report card was very good.) |
+| die Stelle | the job position | *Ich suche eine neue Stelle.* (I am looking for a new job position.) |
+| die Technik | technique / technology | *Die Technik entwickelt sich sehr schnell.* (Technology is developing very quickly.) |
+| die Kasse | the checkout / cash register | *Ich bezahle an der Kasse.* (I pay at the checkout.) |
+| beginnen mit | to start with | *Wir beginnen mit einer Aufgabe.* (We start with an exercise.) |
+| formell / informell | formal / informal | *In einer formellen E-Mail schreibt man anders.* (In a formal email one writes differently.) |
+| am Ende | in the end | *Am Ende war alles gut.* (In the end everything was fine.) |
+| die Unterschrift | the signature | *Bitte geben Sie hier Ihre Unterschrift.* (Please give your signature here.) |
+| eigen | own | *Ich möchte meine eigene Wohnung haben.* (I would like to have my own apartment.) |
+| das Foto-Studio | photo studio | *Ich lasse mein Foto im Foto-Studio machen.* (I have my photo taken at the photo studio.) |
+| der Wahnsinn / wahnsinnig | madness / crazy | *Das ist doch Wahnsinn!* (That is madness!) |
+| die Kirche | the church | *Die Kirche ist sehr alt.* (The church is very old.) |
+| das Tor | the gate / goal (soccer) | *Er hat ein Tor geschossen!* (He scored a goal!) |
+| der Kontinent | the continent | *Europa ist ein kleiner Kontinent.* (Europe is a small continent.) |
 
 ### Verb Conjugations
 

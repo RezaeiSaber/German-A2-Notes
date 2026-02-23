@@ -194,48 +194,48 @@ To say "in [amount of time]" (meaning after that time has passed), use **in + Da
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| die Kunst | the art |
-| der Künstler | the artist (male) |
-| die Künstlerin | the artist (female) |
-| der Schauspieler | the actor |
-| die Schauspielerin | the actress |
-| schauspielern | to act / to pretend |
-| malen | to paint |
-| das Graffiti | the graffiti |
-| die Street-Art | the street art |
-| sauber | clean |
-| schmutzig / dreckig | dirty |
-| kaputt | broken / exhausted |
-| furchtbar | terrible / awful |
-| der Unfall | the accident |
-| stark | strong |
-| schwach | weak |
-| der Protest | the protest |
-| die Brücke | the bridge |
-| die Mauer | the wall (exterior) |
-| die Wand | the wall (interior) |
-| der Trend | the trend |
-| die Kneipe | the pub/bar |
-| die Umfrage | the survey |
-| reisen | to travel |
-| die Reise | the journey/trip |
-| wahrscheinlich | probably |
-| vielleicht | maybe |
-| europäisch | European |
-| asiatisch | Asian |
-| aussehen | to look / appear |
-| gewinnen | to win |
-| der Gewinner | the winner |
-| die Weltmeisterschaft | the world championship |
-| die Sendung | the broadcast/program |
-| der Sender | the TV/Radio station |
-| pünktlich | punctual |
-| endlich | finally |
-| leider | unfortunately |
-| das Gehalt | the salary |
-| die Verspätung | the delay |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| die Kunst | the art | *Ich interessiere mich sehr für die Kunst.* (I am very interested in art.) |
+| der Künstler | the artist (male) | *Der Künstler malt ein großes Bild.* (The artist paints a large picture.) |
+| die Künstlerin | the artist (female) | *Die Künstlerin hat viele Bilder verkauft.* (The female artist sold many pictures.) |
+| der Schauspieler | the actor | *Der Schauspieler spielt in einem Film.* (The actor plays in a film.) |
+| die Schauspielerin | the actress | *Die Schauspielerin war sehr gut in der Rolle.* (The actress was very good in the role.) |
+| schauspielern | to act / to pretend | *Er kann gut schauspielern.* (He can act well.) |
+| malen | to paint | *Meine Schwester malt gern Bilder.* (My sister likes to paint pictures.) |
+| das Graffiti | the graffiti | *Das Graffiti an der Mauer ist sehr bunt.* (The graffiti on the wall is very colorful.) |
+| die Street-Art | the street art | *Die Street-Art in der Stadt ist interessant.* (The street art in the city is interesting.) |
+| sauber | clean | *Das Zimmer ist sehr sauber.* (The room is very clean.) |
+| schmutzig / dreckig | dirty | *Seine Hände sind schmutzig.* (His hands are dirty.) |
+| kaputt | broken / exhausted | *Das Auto ist kaputt, deshalb nehmen wir den Bus.* (The car is broken, therefore we take the bus.) |
+| furchtbar | terrible / awful | *Das Wetter war furchtbar.* (The weather was terrible.) |
+| der Unfall | the accident | *Er hat einen Unfall gehabt, deshalb kommt er nicht.* (He had an accident, therefore he is not coming.) |
+| stark | strong | *Er fühlt sich stark nach dem Sport.* (He feels strong after sports.) |
+| schwach | weak | *Sie war schwach, weil sie krank war.* (She was weak because she was sick.) |
+| der Protest | the protest | *Viele Menschen waren beim Protest dabei.* (Many people participated in the protest.) |
+| die Brücke | the bridge | *Die Brücke über den Fluss ist sehr alt.* (The bridge over the river is very old.) |
+| die Mauer | the wall (exterior) | *Die Mauer um das Haus ist sehr hoch.* (The wall around the house is very high.) |
+| die Wand | the wall (interior) | *Das Bild hängt an der Wand im Wohnzimmer.* (The picture is hanging on the wall in the living room.) |
+| der Trend | the trend | *Das ist ein neuer Trend in der Mode.* (That is a new trend in fashion.) |
+| die Kneipe | the pub/bar | *Nach der Arbeit gehen wir in die Kneipe.* (After work we go to the pub.) |
+| die Umfrage | the survey | *Ich habe an einer Umfrage teilgenommen.* (I participated in a survey.) |
+| reisen | to travel | *Im Sommer möchte ich nach Deutschland reisen.* (In summer I want to travel to Germany.) |
+| die Reise | the journey/trip | *Die Reise nach Wien war wunderschön.* (The trip to Vienna was wonderful.) |
+| wahrscheinlich | probably | *Er kommt wahrscheinlich morgen.* (He will probably come tomorrow.) |
+| vielleicht | maybe | *Vielleicht gehen wir morgen ins Kino.* (Maybe we'll go to the cinema tomorrow.) |
+| europäisch | European | *Ich mag europäisches Essen.* (I like European food.) |
+| asiatisch | Asian | *Sie kocht gern asiatisches Essen.* (She likes to cook Asian food.) |
+| aussehen | to look / appear | *Du siehst heute müde aus.* (You look tired today.) |
+| gewinnen | to win | *Unsere Mannschaft hat das Spiel gewonnen.* (Our team won the game.) |
+| der Gewinner | the winner | *Der Gewinner bekommt einen Pokal.* (The winner gets a trophy.) |
+| die Weltmeisterschaft | the world championship | *Deutschland hat die Weltmeisterschaft gewonnen.* (Germany won the world championship.) |
+| die Sendung | the broadcast/program | *Die Sendung beginnt um acht Uhr.* (The program starts at eight o'clock.) |
+| der Sender | the TV/Radio station | *Welchen Sender siehst du gern?* (Which TV station do you like to watch?) |
+| pünktlich | punctual | *Der Zug kommt pünktlich an.* (The train arrives punctually.) |
+| endlich | finally | *Endlich ist der Urlaub da!* (Finally the vacation is here!) |
+| leider | unfortunately | *Leider kann ich nicht mitkommen.* (Unfortunately I cannot come along.) |
+| das Gehalt | the salary | *Sein Gehalt ist zu niedrig.* (His salary is too low.) |
+| die Verspätung | the delay | *Der Zug hat eine Verspätung von zehn Minuten.* (The train has a delay of ten minutes.) |
 
 # Starten wir A2 Lektion 6 (Part 2) | Demonstratives, Dative Case, and Advanced Reflexives
 
@@ -397,55 +397,55 @@ German uses different prefixes to change the meaning of sleeping:
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| die Tour | the tour/trip |
-| der Rucksack | the backpack |
-| das Ziel | the goal/destination |
-| der Anhalter | the hitchhiker |
-| das Tempo | the speed |
-| die Geschwindigkeit | the speed |
-| der Sonnenschein | the sunshine |
-| die Emission | the emission |
-| der Klimawandel | the climate change |
-| das Klimakonto | the climate account |
-| reinigen | to clean (professionally) |
-| die Reinigung | the cleaning |
-| das Bankkonto | the bank account |
-| die Entschuldigung | the apology |
-| das Vertrauen | the trust |
-| verschieben | to postpone |
-| der Termin | the appointment |
-| das Gespräch | the conversation/talk |
-| die Viertelstunde | the quarter hour (15 mins) |
-| vorschlagen | to suggest |
-| der Vorschlag | the suggestion |
-| stattfinden | to take place |
-| die Veranstaltung | the event |
-| sich interessieren für | to be interested in |
-| sich informieren über | to inform oneself about |
-| sich halten an (+Akk) | to stick to/follow (rules) |
-| die Regel | the rule |
-| der Liebesfilm | the romance movie |
-| die Komödie | the comedy |
-| die Geschichte | the story/history |
-| der Titel | the title |
-| witzig | funny |
-| sportlich | athletic/sporty |
-| die Situation | the situation |
-| verschieden | various/different |
-| der Jugendliche | the youth/teenager |
-| der Erwachsene | the adult |
-| das Gefühl | the feeling |
-| die Liebe | the love |
-| das Glück | the luck/happiness |
-| weinen | to cry |
-| die Angst | the fear |
-| reich | rich |
-| arm | poor/pitiful |
-| egal | irrelevant/all the same |
-| hassen | to hate |
-| der Nachbar | the neighbor |
-| ausschlafen | to sleep in |
-| verschlafen | to oversleep |
-| einschlafen | to fall asleep |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| die Tour | the tour/trip | *Wir machen eine Tour durch die Stadt.* (We are doing a tour through the city.) |
+| der Rucksack | the backpack | *Mein Rucksack ist sehr schwer.* (My backpack is very heavy.) |
+| das Ziel | the goal/destination | *Unser Ziel ist Wien.* (Our destination is Vienna.) |
+| der Anhalter | the hitchhiker | *Per Anhalter fahren ist billig aber langsam.* (Hitchhiking is cheap but slow.) |
+| das Tempo | the speed | *Das Tempo auf der Autobahn ist sehr hoch.* (The speed on the motorway is very high.) |
+| die Geschwindigkeit | the speed | *Die Geschwindigkeit des Zuges war beeindruckend.* (The speed of the train was impressive.) |
+| der Sonnenschein | the sunshine | *Wir genießen den Sonnenschein im Park.* (We enjoy the sunshine in the park.) |
+| die Emission | the emission | *Autos produzieren viele Emissionen.* (Cars produce many emissions.) |
+| der Klimawandel | the climate change | *Der Klimawandel ist ein großes Problem.* (Climate change is a big problem.) |
+| das Klimakonto | the climate account | *Mit einem Klimakonto kann man Punkte sammeln.* (With a climate account one can collect points.) |
+| reinigen | to clean (professionally) | *Ich lasse meinen Mantel reinigen.* (I am having my coat cleaned.) |
+| die Reinigung | the cleaning | *Die Reinigung kostet zwanzig Euro.* (The cleaning costs twenty euros.) |
+| das Bankkonto | the bank account | *Ich überweise das Geld auf dein Bankkonto.* (I transfer the money to your bank account.) |
+| die Entschuldigung | the apology | *Er hat mir eine Entschuldigung gegeben.* (He gave me an apology.) |
+| das Vertrauen | the trust | *Ich habe großes Vertrauen in ihn.* (I have great trust in him.) |
+| verschieben | to postpone | *Wir müssen den Termin verschieben.* (We must postpone the appointment.) |
+| der Termin | the appointment | *Ich habe einen Termin beim Arzt.* (I have an appointment at the doctor.) |
+| das Gespräch | the conversation/talk | *Das Gespräch war sehr interessant.* (The conversation was very interesting.) |
+| die Viertelstunde | the quarter hour (15 mins) | *Ich bin in einer Viertelstunde fertig.* (I'll be done in a quarter of an hour.) |
+| vorschlagen | to suggest | *Darf ich etwas vorschlagen?* (May I suggest something?) |
+| der Vorschlag | the suggestion | *Dein Vorschlag ist sehr gut.* (Your suggestion is very good.) |
+| stattfinden | to take place | *Das Konzert findet morgen statt.* (The concert takes place tomorrow.) |
+| die Veranstaltung | the event | *Die Veranstaltung beginnt um sieben Uhr.* (The event begins at seven o'clock.) |
+| sich interessieren für | to be interested in | *Ich interessiere mich für Musik und Kunst.* (I am interested in music and art.) |
+| sich informieren über | to inform oneself about | *Ich informiere mich über den Klimawandel.* (I inform myself about climate change.) |
+| sich halten an (+Akk) | to stick to/follow (rules) | *Alle müssen sich an die Regeln halten.* (Everyone must stick to the rules.) |
+| die Regel | the rule | *Die Regel ist einfach zu verstehen.* (The rule is easy to understand.) |
+| der Liebesfilm | the romance movie | *Sie sieht gern Liebesfilme.* (She likes to watch romance movies.) |
+| die Komödie | the comedy | *Die Komödie war sehr witzig.* (The comedy was very funny.) |
+| die Geschichte | the story/history | *Erzähl mir eine Geschichte!* (Tell me a story!) |
+| der Titel | the title | *Wie ist der Titel des Films?* (What is the title of the film?) |
+| witzig | funny | *Er ist sehr witzig und macht uns immer lachen.* (He is very funny and always makes us laugh.) |
+| sportlich | athletic/sporty | *Sie ist sehr sportlich und macht jeden Tag Sport.* (She is very athletic and does sports every day.) |
+| die Situation | the situation | *Die Situation ist nicht einfach.* (The situation is not easy.) |
+| verschieden | various/different | *Wir haben verschiedene Meinungen.* (We have different opinions.) |
+| der Jugendliche | the youth/teenager | *Die Jugendlichen spielen draußen.* (The teenagers play outside.) |
+| der Erwachsene | the adult | *Nur Erwachsene dürfen diesen Film sehen.* (Only adults are allowed to see this film.) |
+| das Gefühl | the feeling | *Ich habe ein gutes Gefühl dabei.* (I have a good feeling about it.) |
+| die Liebe | the love | *Die Liebe ist das Wichtigste im Leben.* (Love is the most important thing in life.) |
+| das Glück | the luck/happiness | *Ich wünsche dir viel Glück!* (I wish you a lot of luck!) |
+| weinen | to cry | *Das Kind hat geweint, weil es traurig war.* (The child cried because it was sad.) |
+| die Angst | the fear | *Ich habe Angst vor Hunden.* (I am afraid of dogs.) |
+| reich | rich | *Er ist sehr reich und hat ein großes Haus.* (He is very rich and has a big house.) |
+| arm | poor/pitiful | *Das arme Kind hatte kein Frühstück.* (The poor child had no breakfast.) |
+| egal | irrelevant/all the same | *Das ist mir egal.* (That is all the same to me.) |
+| hassen | to hate | *Ich hasse es, wenn es regnet.* (I hate it when it rains.) |
+| der Nachbar | the neighbor | *Unser Nachbar ist sehr nett.* (Our neighbor is very nice.) |
+| ausschlafen | to sleep in | *Am Wochenende kann ich endlich ausschlafen.* (On the weekend I can finally sleep in.) |
+| verschlafen | to oversleep | *Ich habe heute verschlafen und bin zu spät.* (I overslept today and am late.) |
+| einschlafen | to fall asleep | *Das Kind ist schnell eingeschlafen.* (The child fell asleep quickly.) |

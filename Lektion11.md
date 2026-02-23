@@ -107,64 +107,64 @@ The expression **"Es geht um + Akkusativ"** is used to describe the topic or wha
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Vertrag (die Verträge) | the contract |
-| die Entscheidung (die Entscheidungen) | the decision |
-| das Essen | the food/meal |
-| die Musik | the music |
-| das Paket (die Pakete) | the package |
-| die Einladung (die Einladungen) | the invitation |
-| das Problem (die Probleme) | the problem |
-| das Geschenk (die Geschenke) | the gift/present |
-| das Zimmer | the room |
-| die Tür (die Türen) | the door |
-| der Liebesbrief | the love letter |
-| das Herz (die Herzen) | the heart |
-| der Freund (die Freunde) | the friend/boyfriend |
-| die Briefmarke (die Briefmarken) | the postage stamp |
-| der Briefumschlag (die Briefumschläge) | the envelope |
-| der Postbote | the mailman |
-| die Postbotin | the mailwoman |
-| das Budget | the budget |
-| das Konto (die Konten) | the account |
-| der Schalter | the counter (bank/office) |
-| das Geldgeschäft | the money transaction |
-| das Bankgeschäft | the banking business |
-| das Sparschwein | the piggy bank |
-| der Kredit | the credit/loan |
-| der Stolz | the pride |
-| die Geschichte | the story/history |
-| das Land (die Länder) | the country |
-| das Klima | the climate |
-| der Klimawandel | the climate change |
-| die Milliarde | the billion |
-| der Wandel | the change/transformation |
-| unterschreiben | to sign |
-| treffen | to meet/hit (also: to make a decision) |
-| zubereiten | to prepare (food) |
-| herunterladen | to download |
-| liefern | to deliver |
-| schicken | to send |
-| lösen | to solve |
-| verpacken | to wrap/pack |
-| aufräumen | to clean up/tidy |
-| abschließen | to lock/conclude |
-| beschriften | to label/write on |
-| prüfen | to check/examine |
-| sparen | to save (money) |
-| überweisen | to transfer (money) |
-| wechseln | to change |
-| tauschen | to exchange/swap |
-| zurückbekommen | to get back |
-| töten | to kill |
-| ähnlich | similar |
-| einfach | simple/easy |
-| normal | normal |
-| korrekt | correct |
-| falsch | wrong/false |
-| günstig | affordable/favorable |
-| tot | dead |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Vertrag (die Verträge) | the contract | *Wir unterschreiben heute den Vertrag.* (We are signing the contract today.) |
+| die Entscheidung (die Entscheidungen) | the decision | *Das war eine gute Entscheidung.* (That was a good decision.) |
+| das Essen | the food/meal | *Das Essen wird bald zubereitet.* (The food will be prepared soon.) |
+| die Musik | the music | *Die Musik wird laut gespielt.* (The music is played loudly.) |
+| das Paket (die Pakete) | the package | *Das Paket wird morgen geliefert.* (The package will be delivered tomorrow.) |
+| die Einladung (die Einladungen) | the invitation | *Die Einladung wurde schon geschickt.* (The invitation has already been sent.) |
+| das Problem (die Probleme) | the problem | *Das Problem wurde gelöst.* (The problem was solved.) |
+| das Geschenk (die Geschenke) | the gift/present | *Das Geschenk ist schön verpackt.* (The gift is nicely wrapped.) |
+| das Zimmer | the room | *Das Zimmer ist aufgeräumt.* (The room is tidy.) |
+| die Tür (die Türen) | the door | *Die Tür ist abgeschlossen.* (The door is locked.) |
+| der Liebesbrief | the love letter | *Er schreibt ihr einen Liebesbrief.* (He writes her a love letter.) |
+| das Herz (die Herzen) | the heart | *Das Geschenk kommt von Herzen.* (The gift comes from the heart.) |
+| der Freund (die Freunde) | the friend/boyfriend | *Mein Freund hilft mir immer.* (My friend always helps me.) |
+| die Briefmarke (die Briefmarken) | the postage stamp | *Ich brauche eine Briefmarke für den Brief.* (I need a postage stamp for the letter.) |
+| der Briefumschlag (die Briefumschläge) | the envelope | *Der Briefumschlag ist schon zugeklebt.* (The envelope is already sealed.) |
+| der Postbote | the mailman | *Der Postbote bringt die Pakete.* (The mailman brings the packages.) |
+| die Postbotin | the mailwoman | *Die Postbotin kommt jeden Morgen.* (The mailwoman comes every morning.) |
+| das Budget | the budget | *Das Budget für die Reise ist begrenzt.* (The budget for the trip is limited.) |
+| das Konto (die Konten) | the account | *Ich überweise Geld auf mein Konto.* (I transfer money to my account.) |
+| der Schalter | the counter (bank/office) | *Bitte gehen Sie zum Schalter zwei.* (Please go to counter two.) |
+| das Geldgeschäft | the money transaction | *Das Geldgeschäft wird online erledigt.* (The money transaction is done online.) |
+| das Bankgeschäft | the banking business | *Das Bankgeschäft wurde besprochen.* (The banking business was discussed.) |
+| das Sparschwein | the piggy bank | *Das Kind wirft Münzen ins Sparschwein.* (The child throws coins into the piggy bank.) |
+| der Kredit | the credit/loan | *Er hat einen Kredit bei der Bank beantragt.* (He applied for a loan at the bank.) |
+| der Stolz | the pride | *Es geht mir nicht ums Geld, sondern um meinen Stolz.* (It's not about money for me, but about my pride.) |
+| die Geschichte | the story/history | *Dieser Film geht um die Geschichte meines Landes.* (This film is about the history of my country.) |
+| das Land (die Länder) | the country | *Deutschland ist ein schönes Land.* (Germany is a beautiful country.) |
+| das Klima | the climate | *Das Klima in Süddeutschland ist warm.* (The climate in southern Germany is warm.) |
+| der Klimawandel | the climate change | *Der Klimawandel ist ein großes Problem.* (Climate change is a big problem.) |
+| die Milliarde | the billion | *Eine Milliarde Menschen sprechen Englisch.* (A billion people speak English.) |
+| der Wandel | the change/transformation | *Der Wandel in der Gesellschaft ist sichtbar.* (The change in society is visible.) |
+| unterschreiben | to sign | *Bitte unterschreiben Sie hier.* (Please sign here.) |
+| treffen | to meet/hit (also: to make a decision) | *Wir treffen uns um 10 Uhr.* (We meet at 10 o'clock.) |
+| zubereiten | to prepare (food) | *Sie bereitet das Abendessen zu.* (She is preparing dinner.) |
+| herunterladen | to download | *Ich lade die App herunter.* (I am downloading the app.) |
+| liefern | to deliver | *Die Firma liefert die Bestellung morgen.* (The company delivers the order tomorrow.) |
+| schicken | to send | *Ich schicke ihr einen Brief.* (I am sending her a letter.) |
+| lösen | to solve | *Kannst du das Problem lösen?* (Can you solve the problem?) |
+| verpacken | to wrap/pack | *Ich verpacke das Geschenk.* (I am wrapping the gift.) |
+| aufräumen | to clean up/tidy | *Wir müssen das Zimmer aufräumen.* (We need to tidy the room.) |
+| abschließen | to lock/conclude | *Vergiss nicht, die Tür abzuschließen.* (Don't forget to lock the door.) |
+| beschriften | to label/write on | *Bitte beschriften Sie den Briefumschlag.* (Please label the envelope.) |
+| prüfen | to check/examine | *Die Bank prüft das Budget.* (The bank checks the budget.) |
+| sparen | to save (money) | *Ich spare für einen Urlaub.* (I am saving for a vacation.) |
+| überweisen | to transfer (money) | *Ich überweise das Geld heute.* (I am transferring the money today.) |
+| wechseln | to change | *Ich möchte meinen Job wechseln.* (I would like to change my job.) |
+| tauschen | to exchange/swap | *Wir tauschen unsere Bücher.* (We swap our books.) |
+| zurückbekommen | to get back | *Wann bekomme ich mein Geld zurück?* (When do I get my money back?) |
+| töten | to kill | *Am Ende des Films wird der Antagonist getötet.* (At the end of the film the antagonist is killed.) |
+| ähnlich | similar | *Die beiden Schwestern sehen sich ähnlich.* (The two sisters look similar.) |
+| einfach | simple/easy | *Diese Übung ist einfach.* (This exercise is simple.) |
+| normal | normal | *Das ist ganz normal.* (That is completely normal.) |
+| korrekt | correct | *Deine Antwort ist korrekt.* (Your answer is correct.) |
+| falsch | wrong/false | *Diese Information ist falsch.* (This information is false.) |
+| günstig | affordable/favorable | *Das Hotel ist sehr günstig.* (The hotel is very affordable.) |
+| tot | dead | *Die Pflanze ist leider tot.* (The plant is unfortunately dead.) |
 
 ---
 
@@ -303,77 +303,77 @@ This verb means "to stick to" or "to follow" (rules, laws, agreements).
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| die Regel (die Regeln) | the rule |
-| das Gesetz (die Gesetze) | the law |
-| der Gegenstand (die Gegenstände) | the object / item |
-| das Haushaltsgegenstand | the household item |
-| die Partnerschaft | the partnership |
-| das Paar | the couple |
-| der Wunsch (die Wünsche) | the wish |
-| der Präsident | the president |
-| die Abstimmung | the vote / voting |
-| die Regierung | the government |
-| das Fenster | the window |
-| der Wind | the wind |
-| der Mechaniker | the mechanic |
-| die Seilbahn | the cable car |
-| die Mischung | the mixture |
-| die Post | the mail / post office |
-| die Sendung | the shipment / parcel |
-| das Paket | the package |
-| das Tabu | the taboo |
-| das Legoteil | the Lego piece |
-| der Bericht | the report |
-| die Reportage | the reportage |
-| der Briefkasten | the mailbox |
-| das Dokument | the document |
-| das Ziel (die Ziele) | the goal |
-| der Absender | the sender |
-| der Empfänger | the recipient |
-| der Weg | the way / path |
-| der Mailserver | the mail server |
-| die Wettervorhersage | the weather forecast |
-| das Gedicht | the poem |
-| der Dichter | the poet (male) |
-| die Dichterin | the poet (female) |
-| die Zeile | the line (of text/poetry) |
-| der Spruch | the saying / quote |
-| das Sprichwort | the proverb |
-| das Postfach | the postbox / inbox |
-| leeren / ausleeren | to empty |
-| mischen | to mix |
-| teilen | to share / divide |
-| wünschen | to wish |
-| wählen | to elect / choose |
-| beschließen | to decide / pass (a law) |
-| zerbrechen | to shatter / break |
-| reparieren | to repair |
-| halten an (+ Akk) | to stick to / follow |
-| zeichnen | to draw |
-| malen | to paint |
-| aufbauen | to assemble / build up |
-| danken (+ Dat) | to thank |
-| stehlen | to steal |
-| empfehlen | to recommend |
-| anrufen (+ Akk) | to call (on phone) |
-| antworten (+ Dat) | to answer |
-| besuchen (+ Akk) | to visit |
-| helfen (+ Dat) | to help |
-| sortieren | to sort / organize |
-| verteilen | to distribute |
-| tragen | to carry |
-| übergeben | to hand over |
-| erreichen | to reach / achieve |
-| transportieren | to transport |
-| vorhersagen | to predict |
-| leer | empty |
-| klar / unklar | clear / unclear |
-| weltweit | worldwide |
-| bekannt | known / famous |
-| erreichbar | reachable / achievable |
-| folgend | following / subsequent |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| die Regel (die Regeln) | the rule | *Alle müssen sich an die Regeln halten.* (Everyone must stick to the rules.) |
+| das Gesetz (die Gesetze) | the law | *Das Gesetz wurde von der Regierung beschlossen.* (The law was passed by the government.) |
+| der Gegenstand (die Gegenstände) | the object / item | *Was ist dieser Gegenstand?* (What is this object?) |
+| das Haushaltsgegenstand | the household item | *Das ist ein nützlicher Haushaltsgegenstand.* (That is a useful household item.) |
+| die Partnerschaft | the partnership | *Unsere Partnerschaft ist sehr gut.* (Our partnership is very good.) |
+| das Paar | the couple | *Das Paar hält Hände.* (The couple holds hands.) |
+| der Wunsch (die Wünsche) | the wish | *Mein größter Wunsch ist Gesundheit.* (My greatest wish is health.) |
+| der Präsident | the president | *Der Präsident wird von den Bürgern gewählt.* (The president is elected by the citizens.) |
+| die Abstimmung | the vote / voting | *Die Abstimmung findet morgen statt.* (The vote takes place tomorrow.) |
+| die Regierung | the government | *Die Regierung hat ein neues Gesetz beschlossen.* (The government passed a new law.) |
+| das Fenster | the window | *Das Fenster ist durch den Wind zerbrochen.* (The window was broken by the wind.) |
+| der Wind | the wind | *Der Wind ist sehr stark heute.* (The wind is very strong today.) |
+| der Mechaniker | the mechanic | *Der Mechaniker repariert mein Auto.* (The mechanic repairs my car.) |
+| die Seilbahn | the cable car | *Wir fahren mit der Seilbahn auf den Berg.* (We take the cable car up the mountain.) |
+| die Mischung | the mixture | *Das ist eine gute Mischung aus Musik und Tanz.* (That is a good mixture of music and dance.) |
+| die Post | the mail / post office | *Ich gehe zur Post, um das Paket abzuholen.* (I go to the post office to pick up the package.) |
+| die Sendung | the shipment / parcel | *Die Sendung wurde heute geliefert.* (The shipment was delivered today.) |
+| das Paket | the package | *Das Paket ist für dich angekommen.* (The package arrived for you.) |
+| das Tabu | the taboo | *Das ist ein Tabu in dieser Kultur.* (That is a taboo in this culture.) |
+| das Legoteil | the Lego piece | *Das Kind baut mit Legoteilen.* (The child builds with Lego pieces.) |
+| der Bericht | the report | *Der Bericht wird morgen vorgestellt.* (The report will be presented tomorrow.) |
+| die Reportage | the reportage | *Die Reportage über das Klima war interessant.* (The reportage about the climate was interesting.) |
+| der Briefkasten | the mailbox | *Ich leere den Briefkasten jeden Tag.* (I empty the mailbox every day.) |
+| das Dokument | the document | *Das Dokument muss unterschrieben werden.* (The document must be signed.) |
+| das Ziel (die Ziele) | the goal | *Mein Ziel ist es, Deutsch zu lernen.* (My goal is to learn German.) |
+| der Absender | the sender | *Der Absender steht oben links auf dem Umschlag.* (The sender is in the top left on the envelope.) |
+| der Empfänger | the recipient | *Der Empfänger hat das Paket bekommen.* (The recipient received the package.) |
+| der Weg | the way / path | *Kannst du mir den Weg erklären?* (Can you explain the way to me?) |
+| der Mailserver | the mail server | *Der Mailserver ist gerade ausgefallen.* (The mail server is currently down.) |
+| die Wettervorhersage | the weather forecast | *Laut Wettervorhersage regnet es morgen.* (According to the weather forecast it will rain tomorrow.) |
+| das Gedicht | the poem | *Das schöne Gedicht hat uns bewegt.* (The beautiful poem moved us.) |
+| der Dichter | the poet (male) | *Der Dichter schreibt über die Natur.* (The poet writes about nature.) |
+| die Dichterin | the poet (female) | *Die Dichterin liest ihr Gedicht vor.* (The female poet reads her poem aloud.) |
+| die Zeile | the line (of text/poetry) | *Lesen Sie bitte die erste Zeile.* (Please read the first line.) |
+| der Spruch | the saying / quote | *Das ist mein Lieblingsspruch.* (That is my favourite saying.) |
+| das Sprichwort | the proverb | *Dieses Sprichwort ist sehr bekannt.* (This proverb is very well-known.) |
+| das Postfach | the postbox / inbox | *Prüfen Sie bitte Ihr Postfach.* (Please check your inbox.) |
+| leeren / ausleeren | to empty | *Ich muss den Briefkasten leeren.* (I need to empty the mailbox.) |
+| mischen | to mix | *Mit was soll ich das mischen?* (What should I mix it with?) |
+| teilen | to share / divide | *Kannst du das Stück Kuchen teilen?* (Can you divide the piece of cake?) |
+| wünschen | to wish | *Ich wünsche dir alles Gute!* (I wish you all the best!) |
+| wählen | to elect / choose | *Morgen wählen wir einen neuen Präsidenten.* (Tomorrow we elect a new president.) |
+| beschließen | to decide / pass (a law) | *Die Regierung beschließt das Gesetz.* (The government passes the law.) |
+| zerbrechen | to shatter / break | *Das Glas ist zerbrochen.* (The glass is shattered.) |
+| reparieren | to repair | *Ich lasse mein Auto reparieren.* (I am having my car repaired.) |
+| halten an (+ Akk) | to stick to / follow | *Beim Fahren halte ich mich immer an die Regeln.* (While driving I always follow the rules.) |
+| zeichnen | to draw | *Das Kind zeichnet ein Haus.* (The child draws a house.) |
+| malen | to paint | *Sie malt ein schönes Bild.* (She paints a beautiful picture.) |
+| aufbauen | to assemble / build up | *Wir bauen die Lego-Figur auf.* (We assemble the Lego figure.) |
+| danken (+ Dat) | to thank | *Ich danke dir für deine Hilfe.* (I thank you for your help.) |
+| stehlen | to steal | *Wer hat das Handy gestohlen?* (Who stole the mobile phone?) |
+| empfehlen | to recommend | *Kannst du mir ein gutes Restaurant empfehlen?* (Can you recommend a good restaurant to me?) |
+| anrufen (+ Akk) | to call (on phone) | *Ich ruf dich morgen an.* (I will call you tomorrow.) |
+| antworten (+ Dat) | to answer | *Bitte antworte mir so schnell wie möglich.* (Please answer me as soon as possible.) |
+| besuchen (+ Akk) | to visit | *Ich besuche meine Großeltern am Wochenende.* (I visit my grandparents on the weekend.) |
+| helfen (+ Dat) | to help | *Kannst du mir bitte helfen?* (Can you please help me?) |
+| sortieren | to sort / organize | *Bitte sortieren Sie die Dokumente.* (Please sort the documents.) |
+| verteilen | to distribute | *Er verteilt die Flügelblattpapiere.* (He distributes the leaflets.) |
+| tragen | to carry | *Ich trage die schwere Tasche.* (I am carrying the heavy bag.) |
+| übergeben | to hand over | *Der Chef übergab ihm das Dokument.* (The boss handed him the document.) |
+| erreichen | to reach / achieve | *Ich möchte mein Ziel erreichen.* (I would like to achieve my goal.) |
+| transportieren | to transport | *Die Firma transportiert Waren durch ganz Europa.* (The company transports goods throughout all of Europe.) |
+| vorhersagen | to predict | *Kann man das Wetter vorhersagen?* (Can one predict the weather?) |
+| leer | empty | *Die Flasche ist leer.* (The bottle is empty.) |
+| klar / unklar | clear / unclear | *Ist das klar für dich?* (Is that clear to you?) |
+| weltweit | worldwide | *Das Problem ist weltweit bekannt.* (The problem is known worldwide.) |
+| bekannt | known / famous | *Er ist ein bekannter Schauspieler.* (He is a well-known actor.) |
+| erreichbar | reachable / achievable | *Das Ziel ist erreichbar.* (The goal is achievable.) |
+| folgend | following / subsequent | *In den folgenden Tagen regnet es.* (In the following days it will rain.) |
 
 ---
 

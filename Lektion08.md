@@ -174,51 +174,50 @@ When using "ein / mein / dein" in the **subject (Nominative)** position:
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| das Herz | the heart |
-| der Magen | the stomach |
-| der Zahn | the tooth |
-| der Rücken | the back |
-| der Hals | the throat / neck |
-| der Kopf | the head |
-| das Herzklopfen | heart palpitations |
-| die Grippe | the flu |
-| der Schmerz / die Schmerzen | the pain / pains |
-| die Kopfschmerzen | the headache |
-| die Zahnschmerzen | the toothache |
-| die Magenschmerzen | the stomach ache |
-| wehtun | to hurt |
-| krank | sick |
-| gesund | healthy |
-| die Gesundheit | the health |
-| bis | until |
-| ab | from / starting at |
-| von ... bis | from ... to |
-| raten | to guess / to advise |
-| die Praxis | the medical practice |
-| der Landarzt | the country doctor |
-| der Tierarzt | the veterinarian |
-| der Hausarzt | the family doctor / GP |
-| die Sprechstunde | consultation hour |
-| überweisen | to refer / to transfer |
-| der Geldausgabeautomat | ATM |
-| untersuchen | to examine |
-| die Untersuchung | the examination |
-| das Blut | the blood |
-| die Blutabnahme | blood collection |
-| abnehmen | to lose weight / to take off |
-| zunehmen | to gain weight |
-| niesen | to sneeze |
-| der Unfall | the accident |
-| verletzt | injured |
-| jünger | younger |
-| älter | older |
-| süß | sweet / cute |
-| die Buben (Pl.) | the boys |
-| verdienen | to earn |
-| پریشان (firixt/verwirrt) | confused / scattered |
-| die Antwort | the answer |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| das Herz | the heart | *Das Herz schlägt schnell nach dem Sport.* (The heart beats fast after sports.) |
+| der Magen | the stomach | *Mein Magen tut weh, weil ich zu viel gegessen habe.* (My stomach hurts because I ate too much.) |
+| der Zahn | the tooth | *Der Zahn tut sehr weh.* (The tooth hurts a lot.) |
+| der Rücken | the back | *Mein Rücken tut weh nach der langen Fahrt.* (My back hurts after the long drive.) |
+| der Hals | the throat / neck | *Ihr Hals tut weh, weil sie erkältet ist.* (Her throat hurts because she has a cold.) |
+| der Kopf | the head | *Ich habe Kopfschmerzen und muss mich hinlegen.* (I have a headache and have to lie down.) |
+| das Herzklopfen | heart palpitations | *Ich fühle Herzklopfen, wenn ich vor Leuten spreche.* (I feel heart palpitations when I speak in front of people.) |
+| die Grippe | the flu | *Er hat die Grippe und kann nicht kommen.* (He has the flu and cannot come.) |
+| der Schmerz / die Schmerzen | the pain / pains | *Wo haben Sie Schmerzen?* (Where do you have pain?) |
+| die Kopfschmerzen | the headache | *Ich habe Kopfschmerzen, deshalb nehme ich eine Tablette.* (I have a headache, therefore I take a pill.) |
+| die Zahnschmerzen | the toothache | *Sie hat Zahnschmerzen und muss zum Zahnarzt.* (She has a toothache and has to go to the dentist.) |
+| die Magenschmerzen | the stomach ache | *Ich habe Magenschmerzen, weil ich zu viel gegessen habe.* (I have a stomachache because I ate too much.) |
+| wehtun | to hurt | *Mein Bein tut weh.* (My leg hurts.) |
+| krank | sick | *Er ist krank und bleibt heute zu Hause.* (He is sick and stays home today.) |
+| gesund | healthy | *Sport und gutes Essen sind gesund.* (Sports and good food are healthy.) |
+| die Gesundheit | the health | *Die Gesundheit ist das Wichtigste.* (Health is the most important thing.) |
+| bis | until | *Das Geschäft ist bis achtzehn Uhr offen.* (The shop is open until 6 pm.) |
+| ab | from / starting at | *Ab morgen fange ich mit Sport an.* (From tomorrow I start with sports.) |
+| von ... bis | from ... to | *Die Praxis ist von Montag bis Freitag geöffnet.* (The practice is open from Monday to Friday.) |
+| raten | to guess / to advise | *Der Arzt rät mir, mehr Wasser zu trinken.* (The doctor advises me to drink more water.) |
+| die Praxis | the medical practice | *Die Praxis des Arztes ist in der Nähe.* (The doctor's practice is nearby.) |
+| der Landarzt | the country doctor | *Der Landarzt fährt zu seinen Patienten.* (The country doctor drives to his patients.) |
+| der Tierarzt | the veterinarian | *Die Katze ist krank, also gehen wir zum Tierarzt.* (The cat is sick, so we go to the veterinarian.) |
+| der Hausarzt | the family doctor / GP | *Mein Hausarzt kennt mich seit Jahren.* (My family doctor has known me for years.) |
+| die Sprechstunde | consultation hour | *Die Sprechstunde beginnt um neun Uhr.* (The consultation hour begins at nine o'clock.) |
+| überweisen | to refer / to transfer | *Der Hausarzt überweist mich zum Spezialisten.* (The family doctor refers me to the specialist.) |
+| der Geldausgabeautomat | ATM | *Ich hole Geld am Geldausgabeautomaten.* (I get money from the ATM.) |
+| untersuchen | to examine | *Der Arzt untersucht den Patienten.* (The doctor examines the patient.) |
+| die Untersuchung | the examination | *Die Untersuchung hat zwanzig Minuten gedauert.* (The examination lasted twenty minutes.) |
+| das Blut | the blood | *Der Arzt nimmt Blut ab.* (The doctor takes blood.) |
+| die Blutabnahme | blood collection | *Ich habe heute eine Blutabnahme.* (I have a blood collection today.) |
+| abnehmen | to lose weight / to take off | *Er möchte fünf Kilo abnehmen.* (He would like to lose five kilos.) |
+| zunehmen | to gain weight | *Im Winter nehme ich immer zu.* (In winter I always gain weight.) |
+| niesen | to sneeze | *Gesundheit! — Danke, ich habe geniest.* (Bless you! — Thank you, I sneezed.) |
+| der Unfall | the accident | *Er hatte einen Unfall und ist jetzt verletzt.* (He had an accident and is now injured.) |
+| verletzt | injured | *Das Kind ist verletzt und weint.* (The child is injured and crying.) |
+| jünger | younger | *Meine Schwester ist zwei Jahre jünger als ich.* (My sister is two years younger than I am.) |
+| älter | older | *Mein Bruder ist älter als meine Schwester.* (My brother is older than my sister.) |
+| süß | sweet / cute | *Das Baby ist sehr süß.* (The baby is very cute.) |
+| die Buben (Pl.) | the boys | *Die Buben spielen Fußball im Park.* (The boys play football in the park.) |
+| verdienen | to earn | *Er verdient viel Geld als Arzt.* (He earns a lot of money as a doctor.) |
+| die Antwort | the answer | *Ich warte auf deine Antwort.* (I am waiting for your answer.) |
 
 ### Verb Conjugations
 
@@ -378,57 +377,57 @@ For most other verbs, use **würde** (position 2) and the **Infinitiv** (end of 
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| die Apotheke | the pharmacy |
-| der Apotheker / die Apothekerin | the pharmacist |
-| das Medikament | the medication |
-| das Rezept | the prescription / recipe |
-| die Rezeptgebühr | prescription fee |
-| die Quittung | the receipt |
-| die Rechnung | the invoice / bill |
-| die Tablette | the tablet / pill |
-| das Tablett | the tray |
-| die Reihenfolge | sequence / order |
-| täglich | daily |
-| wöchentlich | weekly |
-| monatlich | monthly |
-| jährlich | yearly |
-| positiv | positive |
-| negativ | negative |
-| optimistisch | optimistic |
-| pessimistisch | pessimistic |
-| nervös | nervous |
-| das Leben | the life |
-| offen | open / open-minded |
-| das Musikstück | piece of music |
-| reparieren | to repair |
-| lassen | to let / allow |
-| fast | almost |
-| gleich | equal / same |
-| maximal | maximum |
-| genauso | exactly the same |
-| als | than (in comparison) |
-| reich | rich |
-| besuchen | to visit |
-| krank | sick |
-| das Kino | the cinema |
-| der LKW (Lastkraftwagen) | truck |
-| der PKW (Personenkraftwagen) | passenger car |
-| aufhören | to stop |
-| der Buchhändler | bookseller |
-| der Krimi | crime story |
-| verraten | to reveal |
-| übersetzen | to translate |
-| liefern | to deliver |
-| erklären | to explain |
-| erzählen | to tell / narrate |
-| akzeptieren | to accept |
-| die Integration | integration |
-| der Kulturschock | culture shock |
-| die Phase | phase |
-| froh | glad / happy |
-| munter | cheerful / lively |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| die Apotheke | the pharmacy | *Ich kaufe das Medikament in der Apotheke.* (I buy the medication at the pharmacy.) |
+| der Apotheker / die Apothekerin | the pharmacist | *Der Apotheker erklärt mir die Tabletten.* (The pharmacist explains the tablets to me.) |
+| das Medikament | the medication | *Ich nehme das Medikament dreimal pro Tag.* (I take the medication three times per day.) |
+| das Rezept | the prescription / recipe | *Der Arzt hat mir ein Rezept gegeben.* (The doctor gave me a prescription.) |
+| die Rezeptgebühr | prescription fee | *Die Rezeptgebühr ist sehr günstig.* (The prescription fee is very affordable.) |
+| die Quittung | the receipt | *Bitte geben Sie mir eine Quittung.* (Please give me a receipt.) |
+| die Rechnung | the invoice / bill | *Ich bekomme die Rechnung per E-Mail.* (I receive the invoice by email.) |
+| die Tablette | the tablet / pill | *Ich muss drei Tabletten pro Tag nehmen.* (I must take three tablets per day.) |
+| das Tablett | the tray | *Das Tablett steht auf dem Tisch.* (The tray is on the table.) |
+| die Reihenfolge | sequence / order | *Erkläre bitte die Reihenfolge der Medikamente.* (Please explain the sequence of the medications.) |
+| täglich | daily | *Ich mache täglich Sport.* (I do sports daily.) |
+| wöchentlich | weekly | *Er besucht seine Mutter wöchentlich.* (He visits his mother weekly.) |
+| monatlich | monthly | *Das Gehalt kommt monatlich.* (The salary comes monthly.) |
+| jährlich | yearly | *Die Untersuchung findet jährlich statt.* (The examination takes place yearly.) |
+| positiv | positive | *Das Ergebnis ist positiv.* (The result is positive.) |
+| negativ | negative | *Das Testergebnis war negativ.* (The test result was negative.) |
+| optimistisch | optimistic | *Sie ist immer optimistisch.* (She is always optimistic.) |
+| pessimistisch | pessimistic | *Er ist zu pessimistisch.* (He is too pessimistic.) |
+| nervös | nervous | *Ich bin nervös vor der Prüfung.* (I am nervous before the exam.) |
+| das Leben | the life | *Das Leben in Deutschland ist gut.* (Life in Germany is good.) |
+| offen | open / open-minded | *Er ist sehr offen für neue Ideen.* (He is very open to new ideas.) |
+| das Musikstück | piece of music | *Das Musikstück war sehr schön.* (The piece of music was very beautiful.) |
+| reparieren | to repair | *Ich lasse mein Auto reparieren.* (I am having my car repaired.) |
+| lassen | to let / allow | *Die Mutter lässt ihre Kinder spielen.* (The mother lets her children play.) |
+| fast | almost | *Das Essen ist fast fertig.* (The food is almost ready.) |
+| gleich | equal / same | *Die Preise sind fast gleich.* (The prices are almost the same.) |
+| maximal | maximum | *Ich schlafe maximal sieben Stunden.* (I sleep a maximum of seven hours.) |
+| genauso | exactly the same | *Er ist genauso groß wie ich.* (He is exactly as tall as I am.) |
+| als | than (in comparison) | *Sie ist älter als ihr Bruder.* (She is older than her brother.) |
+| reich | rich | *Er ist reich und kauft ein großes Haus.* (He is rich and buys a big house.) |
+| besuchen | to visit | *Wir besuchen unsere Oma jedes Wochenende.* (We visit our grandma every weekend.) |
+| krank | sick | *Er ist krank und geht zum Hausarzt.* (He is sick and goes to the family doctor.) |
+| das Kino | the cinema | *Wir gehen am Wochenende ins Kino.* (We go to the cinema on the weekend.) |
+| der LKW (Lastkraftwagen) | truck | *Der LKW ist viel größer als ein Auto.* (The truck is much bigger than a car.) |
+| der PKW (Personenkraftwagen) | passenger car | *Ein PKW darf keine Töpfe auf der Autobahn transportieren.* (A passenger car may not transport pots on the motorway.) |
+| aufhören | to stop | *Ich muss mit dem Rauchen aufhören.* (I must stop smoking.) |
+| der Buchhändler | bookseller | *Der Buchhändler empfiehlt mir ein gutes Buch.* (The bookseller recommends a good book to me.) |
+| der Krimi | crime story | *Ich lese gern Krimis.* (I like reading crime stories.) |
+| verraten | to reveal | *Er hat das Geheimnis verraten.* (He revealed the secret.) |
+| übersetzen | to translate | *Sie übersetzt das Dokument vom Deutschen ins Englische.* (She translates the document from German into English.) |
+| liefern | to deliver | *Die Pakete werden heute geliefert.* (The packages will be delivered today.) |
+| erklären | to explain | *Der Lehrer erklärt die Grammatik.* (The teacher explains the grammar.) |
+| erzählen | to tell / narrate | *Sie erzählt mir eine schöne Geschichte.* (She tells me a nice story.) |
+| akzeptieren | to accept | *Ich akzeptiere seine Entscheidung.* (I accept his decision.) |
+| die Integration | integration | *Die Integration ist ein wichtiges Thema.* (Integration is an important topic.) |
+| der Kulturschock | culture shock | *Viele Einwanderer haben am Anfang einen Kulturschock.* (Many immigrants have a culture shock at the beginning.) |
+| die Phase | phase | *Das ist eine schwierige Phase.* (This is a difficult phase.) |
+| froh | glad / happy | *Ich bin froh, dass du da bist.* (I am glad that you are here.) |
+| munter | cheerful / lively | *Die Kinder waren munter und fröhlich.* (The children were cheerful and happy.) |
 
 ### Verb Conjugations
 

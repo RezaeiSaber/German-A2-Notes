@@ -136,56 +136,56 @@ The preposition **über** is used with the **Accusative** case to mean "about" a
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| das Einkaufszentrum | the shopping center |
-| der Eingang | the entrance |
-| der Ausgang | the exit |
-| die Einfahrt | the vehicle entrance |
-| die Ausfahrt | the vehicle exit |
-| der Fußgänger | the pedestrian |
-| die Tasche / die Tüte | the bag / shopping bag |
-| das Erdgeschoss | the ground floor |
-| das Untergeschoss | the basement floor |
-| das Schild | the sign / label |
-| die Toilette / das Klo | the toilet |
-| die Tiefgarage | the underground garage |
-| das Land | the country |
-| die Stadt | the city |
-| das Spiel | the game |
-| die Farbe | the color |
-| das Licht | the light |
-| die Sonne | the sun |
-| das Enkelkind | the grandchild |
-| das Ende | the end |
-| der Einfluss | the influence |
-| die Medien (Pl.) | the media |
-| die Herrenmode | men's fashion |
-| die Damenmode | women's fashion |
-| das Reisebüro | the travel agency |
-| der Geldautomat | the ATM |
-| einzahlen | to deposit money |
-| überweisen | to transfer money |
-| das Handtuch | the towel |
-| das Taschentuch | the tissue |
-| das Leder | the leather |
-| die Lederjacke | the leather jacket |
-| die Trainerin | the trainer (female) |
-| das Ding / die Sache | the thing |
-| eckig | angular / square |
-| rund | round |
-| elegant | elegant |
-| das Material | the material |
-| das Holz | the wood |
-| die Wolle | the wool |
-| die Qualität | the quality |
-| vorne | in front |
-| der Sinn | the sense / meaning |
-| bestellen | to order |
-| ändern | to change |
-| stark | strong / intense |
-| im Moment | at the moment |
-| bitten um | to ask for / request |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| das Einkaufszentrum | the shopping center | *Ich gehe am Samstag ins Einkaufszentrum.* (I go to the shopping center on Saturday.) |
+| der Eingang | the entrance | *Der Eingang des Einkaufszentrums ist groß.* (The entrance of the shopping center is big.) |
+| der Ausgang | the exit | *Wo ist der Ausgang?* (Where is the exit?) |
+| die Einfahrt | the vehicle entrance | *Die Einfahrt ist rechts.* (The vehicle entrance is on the right.) |
+| die Ausfahrt | the vehicle exit | *Die Ausfahrt ist gesperrt.* (The vehicle exit is blocked.) |
+| der Fußgänger | the pedestrian | *Fußgänger müssen aufpassen.* (Pedestrians must be careful.) |
+| die Tasche / die Tüte | the bag / shopping bag | *Ich brauche eine Tüte für die Einkäufe.* (I need a bag for the shopping.) |
+| das Erdgeschoss | the ground floor | *Das Restaurant ist im Erdgeschoss.* (The restaurant is on the ground floor.) |
+| das Untergeschoss | the basement floor | *Der Parkplatz ist im Untergeschoss.* (The parking is in the basement floor.) |
+| das Schild | the sign / label | *Das Schild zeigt den Weg.* (The sign shows the way.) |
+| die Toilette / das Klo | the toilet | *Entschuldigung, wo ist die Toilette?* (Excuse me, where is the toilet?) |
+| die Tiefgarage | the underground garage | *Ich parke in der Tiefgarage.* ( I park in the underground garage.) |
+| das Land | the country | *Ich lebe in einem anderen Land.* (I live in another country.) |
+| die Stadt | the city | *Die Stadt hat viele Museen.* (The city has many museums.) |
+| das Spiel | the game | *Die Regeln dieses Spiels sind einfach.* (The rules of this game are simple.) |
+| die Farbe | the color | *Die Farbe deiner Jacke ist schön.* (The color of your jacket is beautiful.) |
+| das Licht | the light | *Das Licht im Zimmer ist zu hell.* (The light in the room is too bright.) |
+| die Sonne | the sun | *Die Sonne scheint heute.* (The sun is shining today.) |
+| das Enkelkind | the grandchild | *Das Enkelkind besucht die Oma.* (The grandchild visits the grandma.) |
+| das Ende | the end | *Das Ende des Films war überraschend.* (The end of the film was surprising.) |
+| der Einfluss | the influence | *Der Einfluss der Medien ist groß.* (The influence of the media is great.) |
+| die Medien (Pl.) | the media | *Die Medien spielen eine wichtige Rolle.* (The media plays an important role.) |
+| die Herrenmode | men's fashion | *Die Herrenmode ist im zweiten Stock.* (Men's fashion is on the second floor.) |
+| die Damenmode | women's fashion | *Die Damenmode ist im ersten Stock.* (Women's fashion is on the first floor.) |
+| das Reisebüro | the travel agency | *Ich kaufe meine Fahrkarte im Reisebüro.* (I buy my ticket at the travel agency.) |
+| der Geldautomat | the ATM | *Ich hole Geld am Geldautomaten.* (I get money from the ATM.) |
+| einzahlen | to deposit money | *Ich zahle Geld auf mein Konto ein.* (I deposit money into my account.) |
+| überweisen | to transfer money | *Er überweist das Geld sofort.* (He transfers the money immediately.) |
+| das Handtuch | the towel | *Das Handtuch hängt im Bad.* (The towel hangs in the bathroom.) |
+| das Taschentuch | the tissue | *Ich brauche ein Taschentuch.* (I need a tissue.) |
+| das Leder | the leather | *Die Tasche ist aus Leder.* (The bag is made of leather.) |
+| die Lederjacke | the leather jacket | *Seine Lederjacke ist sehr teuer.* (His leather jacket is very expensive.) |
+| die Trainerin | the trainer (female) | *Die Trainerin erklärt die Übung.* (The female trainer explains the exercise.) |
+| das Ding / die Sache | the thing | *Was ist dieses Ding?* (What is this thing?) |
+| eckig | angular / square | *Der Tisch ist eckig.* (The table is angular.) |
+| rund | round | *Der Tisch ist rund.* (The table is round.) |
+| elegant | elegant | *Sie trägt ein elegantes Kleid.* (She is wearing an elegant dress.) |
+| das Material | the material | *Das Material ist sehr weich.* (The material is very soft.) |
+| das Holz | the wood | *Der Tisch ist aus Holz.* (The table is made of wood.) |
+| die Wolle | the wool | *Der Pullover ist aus Wolle.* (The sweater is made of wool.) |
+| die Qualität | the quality | *Die Qualität dieser Tasche ist sehr gut.* (The quality of this bag is very good.) |
+| vorne | in front | *Setz dich vorne!* (Sit in front!) |
+| der Sinn | the sense / meaning | *Das macht keinen Sinn.* (That makes no sense.) |
+| bestellen | to order | *Ich möchte ein Wasser bestellen.* (I would like to order a water.) |
+| ändern | to change | *Ich möchte die Farbe ändern.* (I would like to change the color.) |
+| stark | strong / intense | *Der Kaffee ist zu stark.* (The coffee is too strong.) |
+| im Moment | at the moment | *Im Moment habe ich keine Zeit.* (At the moment I have no time.) |
+| bitten um | to ask for / request | *Ich bitte um Ihre Hilfe.* (I ask for your help.) |
 
 ### Verb Conjugations
 
@@ -311,56 +311,56 @@ To say what something is made of, use the structure: **[Subject] + sein + aus + 
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Tag (die Tage) | the day |
-| der Mann (die Männer) | the man |
-| das Kind (die Kinder) | the child |
-| die Frau (die Frauen) | the woman |
-| der Hund (die Hunde) | the dog |
-| der Wein (die Weine) | the wine |
-| der Kuchen (die Kuchen) | the cake |
-| die Torte (die Torten) | the gateau/layer cake |
-| das Auto (die Autos) | the car |
-| der Rucksack (die Rucksäcke) | the backpack |
-| die Mauer (die Mauern) | the wall |
-| das Glas (die Gläser) | the glass |
-| das Holz | the wood |
-| das Papier | the paper |
-| der Stein (die Steine) | the stone |
-| der Partner (die Partner) | the partner |
-| die Partnersuche | the partner search |
-| das Kompliment (die Komplimente) | the compliment |
-| der Flirt | the flirt |
-| der Flirtkurs | the flirting course |
-| der Single | the single person |
-| der Humor | the sense of humor |
-| die Geduld | the patience |
-| die Meinung | the opinion |
-| das Profil | the profile |
-| die Dame | the lady |
-| der Experte | the expert |
-| die Aktivität | the activity |
-| die Freizeit | the free time |
-| die Rose | the rose |
-| das Kochbuch | the cookbook |
-| das Märchen / die Geschichte | the story |
-| der Brief | the letter |
-| der Leiter | the leader/manager |
-| der Punkt | the point/dot |
-| der Satz (die Sätze) | the sentence |
-| die Uni (Universität) | the university |
-| klug | clever/smart |
-| lustig | funny |
-| süß | sweet/cute |
-| groß | big/tall |
-| teuer | expensive |
-| fertig | finished/exhausted |
-| emotional | emotional |
-| privat | private |
-| verantwortlich | responsible |
-| spannend | exciting |
-| rund | round |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Tag (die Tage) | the day | *Der erste Tag in Deutschland war aufregend.* (The first day in Germany was exciting.) |
+| der Mann (die Männer) | the man | *Der große Mann steht an der Tür.* (The tall man is standing at the door.) |
+| das Kind (die Kinder) | the child | *Das kluge Kind lernt schnell.* (The smart child learns quickly.) |
+| die Frau (die Frauen) | the woman | *Die nette Frau hilft mir.* (The nice woman helps me.) |
+| der Hund (die Hunde) | the dog | *Der süße Hund spielt im Park.* (The cute dog plays in the park.) |
+| der Wein (die Weine) | the wine | *Ich möchte ein Glas roten Wein.* (I would like a glass of red wine.) |
+| der Kuchen (die Kuchen) | the cake | *Der süße Kuchen schmeckt gut.* (The sweet cake tastes good.) |
+| die Torte (die Torten) | the gateau/layer cake | *Die große Torte ist für die Feier.* (The big gateau is for the celebration.) |
+| das Auto (die Autos) | the car | *Das neue Auto steht in der Garage.* (The new car is in the garage.) |
+| der Rucksack (die Rucksäcke) | the backpack | *Mein schwerer Rucksack ist unbequem.* (My heavy backpack is uncomfortable.) |
+| die Mauer (die Mauern) | the wall | *Die alte Mauer ist aus Steinen.* (The old wall is made of stones.) |
+| das Glas (die Gläser) | the glass | *Dieses Glas ist aus Glas.* (This glass is made of glass.) |
+| das Holz | the wood | *Der Tisch ist aus Holz.* (The table is made of wood.) |
+| das Papier | the paper | *Das Dokument ist auf Papier.* (The document is on paper.) |
+| der Stein (die Steine) | the stone | *Die Mauer ist aus Steinen gebaut.* (The wall is built from stones.) |
+| der Partner (die Partner) | the partner | *Mein Partner arbeitet in Wien.* (My partner works in Vienna.) |
+| die Partnersuche | the partner search | *Er ist auf Partnersuche.* (He is searching for a partner.) |
+| das Kompliment (die Komplimente) | the compliment | *Er bekommt oft Komplimente über seinen Humor.* (He often receives compliments about his humor.) |
+| der Flirt | the flirt | *Das war nur ein netter Flirt.* (That was just a nice flirt.) |
+| der Flirtkurs | the flirting course | *Sie macht einen Flirtkurs.* (She is doing a flirting course.) |
+| der Single | the single person | *Er ist Single und sucht eine Partnerin.* (He is single and looking for a partner.) |
+| der Humor | the sense of humor | *Ich mag Menschen mit gutem Humor.* (I like people with a good sense of humor.) |
+| die Geduld | the patience | *Du brauchst viel Geduld.* (You need a lot of patience.) |
+| die Meinung | the opinion | *Was ist deine Meinung dazu?* (What is your opinion about it?) |
+| das Profil | the profile | *Sein Profil auf der App ist interessant.* (His profile on the app is interesting.) |
+| die Dame | the lady | *Die elegante Dame sitzt am Tisch.* (The elegant lady sits at the table.) |
+| der Experte | the expert | *Der Experte gibt uns einen Rat.* (The expert gives us a piece of advice.) |
+| die Aktivität | the activity | *Die Aktivität macht Spaß.* (The activity is fun.) |
+| die Freizeit | the free time | *In meiner Freizeit lese ich gern.* (In my free time I like to read.) |
+| die Rose | the rose | *Er schenkt ihr eine rote Rose.* (He gives her a red rose as a gift.) |
+| das Kochbuch | the cookbook | *Ich habe ein neues Kochbuch gekauft.* (I bought a new cookbook.) |
+| das Märchen / die Geschichte | the story | *Erzähl mir ein Märchen!* (Tell me a fairy tale!) |
+| der Brief | the letter | *Ich schreibe ihr einen Brief.* (I write her a letter.) |
+| der Leiter | the leader/manager | *Der Leiter erklärt den Plan.* (The manager explains the plan.) |
+| der Punkt | the point/dot | *Das ist ein wichtiger Punkt.* (That is an important point.) |
+| der Satz (die Sätze) | the sentence | *Dieser Satz ist lang aber korrekt.* (This sentence is long but correct.) |
+| die Uni (Universität) | the university | *Sie studiert an der Uni Wien.* (She studies at the University of Vienna.) |
+| klug | clever/smart | *Das kluge Kind antwortet schnell.* (The smart child answers quickly.) |
+| lustig | funny | *Der lustige Film hat uns zum Lachen gebracht.* (The funny film made us laugh.) |
+| süß | sweet/cute | *Das süße Baby schläft.* (The cute baby is sleeping.) |
+| groß | big/tall | *Der große Mann hilft uns.* (The tall man helps us.) |
+| teuer | expensive | *Das teure Auto gefällt mir sehr.* (I like the expensive car a lot.) |
+| fertig | finished/exhausted | *Ich bin fertig mit der Arbeit.* (I am finished with the work.) |
+| emotional | emotional | *Er ist sehr emotional.* (He is very emotional.) |
+| privat | private | *Das ist eine private Sache.* (That is a private matter.) |
+| verantwortlich | responsible | *Wer ist verantwortlich dafür?* (Who is responsible for that?) |
+| spannend | exciting | *Das Buch ist sehr spannend.* (The book is very exciting.) |
+| rund | round | *Der runde Tisch steht im Wohnzimmer.* (The round table is in the living room.) |
 
 ---
 

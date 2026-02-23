@@ -162,40 +162,40 @@ Building on Lektion 8, we now look at endings when the noun is in the **Accusati
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Ring | the ring |
-| das Handy | the mobile phone |
-| das Bild / die Bilder | the picture / pictures |
-| die Mannschaft | the team |
-| der Sieg | the victory |
-| der Ex / der Ex-Freund | the ex-boyfriend |
-| das Geschenk / die Geschenke | the gift / gifts |
-| die Fahrkarte | the ticket |
-| die Tasse | the cup |
-| der Feierabend | the end of work/closing time |
-| das Fest | the festival |
-| der Feiertag | the holiday |
-| das Feuerwerk | the fireworks |
-| draußen | outside (position) |
-| raus | outside (direction/movement) |
-| drinnen | inside (position) |
-| rein | inside (direction/movement) |
-| die Nachrichten | the news |
-| die Serie | the series |
-| das Gerät | the device |
-| das Medium / die Medien | the medium / media |
-| das Tablet | the tablet |
-| der Monitor | the monitor |
-| die Kamera | the camera |
-| das E-Book | the e-book |
-| speichern | to save / store |
-| flach | flat / shallow |
-| auswandern | to emigrate |
-| die Lösung | the solution |
-| sparen | to save (money) |
-| die Rolle | the role |
-| egal | all the same / doesn't matter |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Ring | the ring | *Er schenkt seiner Freundin einen Ring.* (He gives his girlfriend a ring.) |
+| das Handy | the mobile phone | *Gib mir mein Handy!* (Give me my phone!) |
+| das Bild / die Bilder | the picture / pictures | *Ich zeige dir meine Bilder vom Urlaub.* (I show you my pictures from the vacation.) |
+| die Mannschaft | the team | *Wir wünschen unserer Mannschaft den Sieg.* (We wish our team the victory.) |
+| der Sieg | the victory | *Der Sieg der Mannschaft war toll.* (The victory of the team was great.) |
+| der Ex / der Ex-Freund | the ex-boyfriend | *Sie schreibt ihrem Ex eine Nachricht.* (She writes her ex a message.) |
+| das Geschenk / die Geschenke | the gift / gifts | *Ich kaufe meinen Freunden Geschenke.* (I buy my friends gifts.) |
+| die Fahrkarte | the ticket | *Ich hätte gern eine Fahrkarte nach Berlin.* (I would like a ticket to Berlin.) |
+| die Tasse | the cup | *Eine Tasse Kaffee wäre jetzt toll.* (A cup of coffee would be great right now.) |
+| der Feierabend | the end of work/closing time | *Früher Feierabend wäre nicht schlecht.* (An early end of work wouldn't be bad.) |
+| das Fest | the festival | *Wir feiern ein großes Fest am Wochenende.* (We celebrate a big festival on the weekend.) |
+| der Feiertag | the holiday | *Am Feiertag bleiben wir zu Hause.* (On the holiday we stay at home.) |
+| das Feuerwerk | the fireworks | *Das Feuerwerk zu Silvester war sehr schön.* (The fireworks on New Year's Eve were very beautiful.) |
+| draußen | outside (position) | *Die Kinder spielen draußen.* (The children are playing outside.) |
+| raus | outside (direction/movement) | *Ich gehe raus, weil es schön ist.* (I am going outside because it's nice.) |
+| drinnen | inside (position) | *Die Geschenke sind drinnen unter dem Baum.* (The gifts are inside under the tree.) |
+| rein | inside (direction/movement) | *Komm rein, es ist kalt draußen!* (Come inside, it's cold outside!) |
+| die Nachrichten | the news | *Ich schaue jeden Abend die Nachrichten.* (I watch the news every evening.) |
+| die Serie | the series | *Meine Lieblingsserie läuft heute Abend.* (My favorite series is on tonight.) |
+| das Gerät | the device | *Dieses Gerät ist sehr modern.* (This device is very modern.) |
+| das Medium / die Medien | the medium / media | *Die Medien spielen eine große Rolle.* (The media plays a big role.) |
+| das Tablet | the tablet | *Er liest die Zeitung auf seinem Tablet.* (He reads the newspaper on his tablet.) |
+| der Monitor | the monitor | *Der Monitor ist zu hell.* (The monitor is too bright.) |
+| die Kamera | the camera | *Ich mache ein Foto mit der Kamera.* (I take a photo with the camera.) |
+| das E-Book | the e-book | *Ich lese das E-Book auf dem Tablet.* (I read the e-book on the tablet.) |
+| speichern | to save / store | *Vergiss nicht, die Datei zu speichern!* (Don't forget to save the file!) |
+| flach | flat / shallow | *Das Tablet ist sehr flach.* (The tablet is very flat.) |
+| auswandern | to emigrate | *Zuerst lerne ich Deutsch, dann wandere ich aus.* (First I learn German, then I emigrate.) |
+| die Lösung | the solution | *Wir suchen eine Lösung für das Problem.* (We are looking for a solution to the problem.) |
+| sparen | to save (money) | *Ich spare jeden Monat etwas Geld.* (I save some money every month.) |
+| die Rolle | the role | *Der Schauspieler spielt eine wichtige Rolle.* (The actor plays an important role.) |
+| egal | all the same / doesn't matter | *Das ist mir egal.* (That doesn't matter to me.) |
 
 ### Verb Conjugations
 
@@ -331,41 +331,41 @@ The verb **anbieten** (to offer) is primarily used for offering food and drinks 
 
 ### Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| individuell | individual / separate |
-| echt | real / really |
-| verpassen | to miss (a bus, train, etc.) |
-| verlieren | to lose |
-| das Nomen | the noun |
-| das Adjektiv | the adjective |
-| leicht | light / easy |
-| schwer | heavy / difficult |
-| klug | smart / clever |
-| die Definition | the definition |
-| das Gegenteil | the opposite |
-| prima | great / super |
-| frisch | fresh |
-| riechen | to smell |
-| bestimmt | definitely / certain |
-| der Arbeitstag | the work day |
-| die Zeitung | the newspaper |
-| der Zeitungsartikel | the newspaper article |
-| der Strom | the electricity |
-| der Stromausfall | the power outage |
-| ausfallen | to fail / to be cancelled |
-| online sein | to be online |
-| mobil | mobile |
-| der Chatpartner | the chat partner |
-| das Problem | the problem |
-| problemlos | problem-free |
-| der Gastgeber | the host (male) |
-| die Gastgeberin | the host (female) |
-| anbieten | to offer (food/drink) |
-| die Organisation | the organization |
-| der Wissenschaftler | the scientist (male) |
-| die Wissenschaftlerin | the scientist (female) |
-| die Welt | the world |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| individuell | individual / separate | *Jeder Mensch hat individuelle Wünsche.* (Every person has individual wishes.) |
+| echt | real / really | *Das ist echt gut!* (That is really good!) |
+| verpassen | to miss (a bus, train, etc.) | *Ich habe den Zug verpasst.* (I missed the train.) |
+| verlieren | to lose | *Ich habe meinen Schlüssel verloren.* (I lost my key.) |
+| das Nomen | the noun | *"Tisch" ist ein Nomen.* ("Table" is a noun.) |
+| das Adjektiv | the adjective | *"schön" ist ein Adjektiv.* ("beautiful" is an adjective.) |
+| leicht | light / easy | *Die Aufgabe ist leicht.* (The exercise is easy.) |
+| schwer | heavy / difficult | *Das Gespäck ist sehr schwer.* (The luggage is very heavy.) |
+| klug | smart / clever | *Sie ist sehr klug und hilft mir immer.* (She is very smart and always helps me.) |
+| die Definition | the definition | *Was ist die Definition von "Grammatik"?* (What is the definition of "grammar"?) |
+| das Gegenteil | the opposite | *Das Gegenteil von "groß" ist "klein".* (The opposite of "big" is "small".) |
+| prima | great / super | *Das ist eine prima Idee!* (That is a super idea!) |
+| frisch | fresh | *Das Brot ist frisch gebacken.* (The bread is freshly baked.) |
+| riechen | to smell | *Die Blumen riechen sehr schön.* (The flowers smell very beautiful.) |
+| bestimmt | definitely / certain | *Er kommt bestimmt morgen.* (He will definitely come tomorrow.) |
+| der Arbeitstag | the work day | *Der Arbeitstag beginnt um acht Uhr.* (The work day begins at eight o'clock.) |
+| die Zeitung | the newspaper | *Ich lese jeden Morgen die Zeitung.* (I read the newspaper every morning.) |
+| der Zeitungsartikel | the newspaper article | *Der Zeitungsartikel ist sehr interessant.* (The newspaper article is very interesting.) |
+| der Strom | the electricity | *Der Strom ist ausgefallen.* (The electricity has gone out.) |
+| der Stromausfall | the power outage | *Beim Stromausfall haben wir Kerzen benutzt.* (During the power outage we used candles.) |
+| ausfallen | to fail / to be cancelled | *Der Unterricht fällt heute aus.* (The lesson is cancelled today.) |
+| online sein | to be online | *Ich bin den ganzen Tag online.* (I am online all day.) |
+| mobil | mobile | *Mit dem Handy bin ich immer mobil.* (With the mobile phone I am always mobile.) |
+| der Chatpartner | the chat partner | *Mein Chatpartner wohnt in Wien.* (My chat partner lives in Vienna.) |
+| das Problem | the problem | *Das ist kein großes Problem.* (That is not a big problem.) |
+| problemlos | problem-free | *Die Installation verlief problemlos.* (The installation went problem-free.) |
+| der Gastgeber | the host (male) | *Der Gastgeber hat alles gut vorbereitet.* (The host prepared everything well.) |
+| die Gastgeberin | the host (female) | *Die Gastgeberin hat uns Kaffee angeboten.* (The hostess offered us coffee.) |
+| anbieten | to offer (food/drink) | *Kann ich Ihnen etwas anbieten?* (Can I offer you something?) |
+| die Organisation | the organization | *Die Organisation des Festes war perfekt.* (The organization of the festival was perfect.) |
+| der Wissenschaftler | the scientist (male) | *Der Wissenschaftler macht ein Experiment.* (The scientist does an experiment.) |
+| die Wissenschaftlerin | the scientist (female) | *Die Wissenschaftlerin forscht über Sprachen.* (The female scientist researches languages.) |
+| die Welt | the world | *Ich möchte die ganze Welt bereisen.* (I would like to travel the whole world.) |
 
 ### Verb Conjugations
 

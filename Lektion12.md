@@ -102,81 +102,81 @@ To say "about that" or "for it", we use **da** + the preposition.
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| das Pronominaladverb | the pronominal adverb |
-| die Präposition | the preposition |
-| die Skijacke | the ski jacket |
-| die Skihose | the ski pants |
-| der Handschuh (die Handschuhe) | the glove(s) |
-| die Badehose | the swimming trunks (men) |
-| der Bikini | the bikini |
-| der Badeanzug | the swimsuit (one-piece) |
-| die Sonnencreme | the sunscreen |
-| die Sonnenbrille | the sunglasses |
-| die Gitarre | the guitar |
-| der Pass (die Pässe) | the passport |
-| der Führerschein | the driver's license |
-| das Zelt | the tent |
-| der Urlaubsplan | the vacation plan |
-| das Paar | the couple |
-| das Feuer | the fire |
-| der Kurzurlaub | the short vacation |
-| das Wochenende | the weekend |
-| der Skiurlaub | the ski vacation |
-| die Städtereise | the city trip |
-| der Kalender | the calendar |
-| das Abenteuer | the adventure |
-| der Reisepartner | the travel partner (male) |
-| die Reisepartnerin | the travel partner (female) |
-| die Reisezeit | the travel season |
-| die Notiz (die Notizen) | the note |
-| das Notizbuch | the notebook |
-| das Ansehen | the reputation / prestige |
-| das Reiseziel | the travel destination |
-| der Atlantik | the Atlantic |
-| die Ostsee | the Baltic Sea |
-| die Spitze | the tip / peak (also "awesome") |
-| der Rhein | the Rhine (river) |
-| der Nationalpark | the national park |
-| die Wüste | the desert |
-| die Landschaft | the landscape / nature |
-| der Eiffelturm | the Eiffel Tower |
-| die Kreuzung | the intersection |
-| das Navi | the GPS / SatNav |
-| der Kompass | the compass |
-| die Baustelle | the construction site |
-| einpacken | to pack (suitcases/bags) |
-| sammeln | to collect |
-| zelten | to camp |
-| campen | to camp |
-| anzünden | to light / ignite |
-| mieten | to rent |
-| arbeiten | to work |
-| träumen von (+ Dat) | to dream of |
-| warten auf (+ Akk) | to wait for |
-| denken an (+ Akk) | to think of |
-| sich interessieren für (+ Akk) | to be interested in |
-| sich ärgern über (+ Akk) | to be annoyed about |
-| sich beschäftigen mit (+ Dat) | to be busy with |
-| sich konzentrieren auf (+ Akk) | to concentrate on |
-| notieren | to note down |
-| ansehen als | to regard as |
-| vorbeikommen | to drop by |
-| vorbeigehen | to pass by |
-| grüßen | to greet |
-| bummeln | to stroll |
-| lustig | funny |
-| abenteuerlustig | adventurous |
-| asiatisch | Asian |
-| aktiv | active |
-| gemeinsam | together / common |
-| einige | some / a few |
-| prozentual | percentage-wise |
-| bei uns | with us / at our place / in our country |
-| komisch | strange / funny |
-| klug | smart |
-| komfortabel | comfortable |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| das Pronominaladverb | the pronominal adverb | *Wovon träumst du? Das ist ein Pronominaladverb.* (What do you dream of? That is a pronominal adverb.) |
+| die Präposition | the preposition | *„Auf" ist eine Präposition.* (\"Auf\" is a preposition.) |
+| die Skijacke | the ski jacket | *Ich brauche eine warme Skijacke für den Winter.* (I need a warm ski jacket for winter.) |
+| die Skihose | the ski pants | *Die Skihose ist im Gepäck.* (The ski pants are in the luggage.) |
+| der Handschuh (die Handschuhe) | the glove(s) | *Ich vergesse immer meine Handschuhe.* (I always forget my gloves.) |
+| die Badehose | the swimming trunks (men) | *Er kauft eine neue Badehose für den Urlaub.* (He buys new swimming trunks for the vacation.) |
+| der Bikini | the bikini | *Sie packt ihren Bikini in den Koffer.* (She packs her bikini into the suitcase.) |
+| der Badeanzug | the swimsuit (one-piece) | *Der Badeanzug ist blau und schön.* (The swimsuit is blue and beautiful.) |
+| die Sonnencreme | the sunscreen | *Vergiss nicht, die Sonnencreme einzupacken!* (Don't forget to pack the sunscreen!) |
+| die Sonnenbrille | the sunglasses | *Meine Sonnenbrille liegt am Strand.* (My sunglasses are lying on the beach.) |
+| die Gitarre | the guitar | *Er spielt Gitarre am Lagerfeuer.* (He plays guitar by the campfire.) |
+| der Pass (die Pässe) | the passport | *Ich brauche meinen Pass für die Reise.* (I need my passport for the trip.) |
+| der Führerschein | the driver's license | *Hast du deinen Führerschein dabei?* (Do you have your driver's license with you?) |
+| das Zelt | the tent | *Wir schlafen im Zelt.* (We sleep in the tent.) |
+| der Urlaubsplan | the vacation plan | *Wir machen zusammen einen Urlaubsplan.* (We make a vacation plan together.) |
+| das Paar | the couple | *Das Paar reist zusammen durch Europa.* (The couple travels through Europe together.) |
+| das Feuer | the fire | *Er zündet das Feuer an.* (He lights the fire.) |
+| der Kurzurlaub | the short vacation | *Wir machen einen Kurzurlaub am Wochenende.* (We take a short vacation at the weekend.) |
+| das Wochenende | the weekend | *Am Wochenende fahren wir ans Meer.* (At the weekend we drive to the sea.) |
+| der Skiurlaub | the ski vacation | *Nächsten Winter machen wir Skiurlaub.* (Next winter we are going on a ski vacation.) |
+| die Städtereise | the city trip | *Eine Städtereise nach Wien klingt toll!* (A city trip to Vienna sounds great!) |
+| der Kalender | the calendar | *Ich schaue in den Kalender.* (I look in the calendar.) |
+| das Abenteuer | the adventure | *Die Reise war ein großes Abenteuer.* (The trip was a big adventure.) |
+| der Reisepartner | the travel partner (male) | *Mein Reisepartner und ich sind oft einer Meinung.* (My travel partner and I often agree.) |
+| die Reisepartnerin | the travel partner (female) | *Meine Reisepartnerin liebt Strand und Sonne.* (My travel partner loves the beach and sunshine.) |
+| die Reisezeit | the travel season | *Die Reisezeit im Sommer ist sehr beliebt.* (The travel season in summer is very popular.) |
+| die Notiz (die Notizen) | the note | *Ich mache mir eine Notiz.* (I make myself a note.) |
+| das Notizbuch | the notebook | *Ich schreibe alles in mein Notizbuch.* (I write everything in my notebook.) |
+| das Ansehen | the reputation / prestige | *Das Ansehen der Stadt ist sehr gut.* (The reputation of the city is very good.) |
+| das Reiseziel | the travel destination | *Unser Reiseziel ist Wien.* (Our travel destination is Vienna.) |
+| der Atlantik | the Atlantic | *Sie sind über den Atlantik geflogen.* (They flew over the Atlantic.) |
+| die Ostsee | the Baltic Sea | *Wir fahren diesen Sommer an die Ostsee.* (We are going to the Baltic Sea this summer.) |
+| die Spitze | the tip / peak (also "awesome") | *Das war wirklich Spitze!* (That was really awesome!) |
+| der Rhein | the Rhine (river) | *Wir spazieren am Rhein entlang.* (We stroll along the Rhine.) |
+| der Nationalpark | the national park | *Im Nationalpark darf man keine Tiere füttern.* (In the national park you are not allowed to feed animals.) |
+| die Wüste | the desert | *Die Wüste ist sehr heiß und trocken.* (The desert is very hot and dry.) |
+| die Landschaft | the landscape / nature | *Die Landschaft in Bayern ist wunderschön.* (The landscape in Bavaria is wonderful.) |
+| der Eiffelturm | the Eiffel Tower | *Wir haben ein Foto vor dem Eiffelturm gemacht.* (We took a photo in front of the Eiffel Tower.) |
+| die Kreuzung | the intersection | *An der Kreuzung biegen Sie links ab.* (At the intersection, turn left.) |
+| das Navi | the GPS / SatNav | *Das Navi zeigt uns den richtigen Weg.* (The GPS shows us the right way.) |
+| der Kompass | the compass | *Wir brauchen einen Kompass in der Wüste.* (We need a compass in the desert.) |
+| die Baustelle | the construction site | *Die Straße ist wegen einer Baustelle gesperrt.* (The road is blocked because of a construction site.) |
+| einpacken | to pack (suitcases/bags) | *Vergiss nicht, den Reisepass einzupacken!* (Don't forget to pack the passport!) |
+| sammeln | to collect | *Ich sammle Briefmarken aus verschiedenen Ländern.* (I collect postage stamps from different countries.) |
+| zelten | to camp | *Nächsten Sommer möchte ich zelten.* (Next summer I would like to go camping.) |
+| campen | to camp | *Die Familie campt am See.* (The family is camping by the lake.) |
+| anzünden | to light / ignite | *Er zündet die Kerze an.* (He lights the candle.) |
+| mieten | to rent | *Wir mieten ein Auto für die Reise.* (We rent a car for the trip.) |
+| arbeiten | to work | *Ich arbeite am Wochenende nicht.* (I don't work on the weekend.) |
+| träumen von (+ Dat) | to dream of | *Ich träume von einer langen Reise.* (I dream of a long trip.) |
+| warten auf (+ Akk) | to wait for | *Worauf wartest du?* (What are you waiting for?) |
+| denken an (+ Akk) | to think of | *Ich denke an meinen nächsten Urlaub.* (I am thinking of my next vacation.) |
+| sich interessieren für (+ Akk) | to be interested in | *Wofür interessierst du dich?* (What are you interested in?) |
+| sich ärgern über (+ Akk) | to be annoyed about | *Worüber ärgerst du dich?* (What are you annoyed about?) |
+| sich beschäftigen mit (+ Dat) | to be busy with | *Ich beschäftige mich mit dem Urlaubsplan.* (I am busy with the vacation plan.) |
+| sich konzentrieren auf (+ Akk) | to concentrate on | *Ich konzentriere mich auf meine Arbeit.* (I concentrate on my work.) |
+| notieren | to note down | *Ich notiere die wichtigen Wörter.* (I note down the important words.) |
+| ansehen als | to regard as | *Ich sehe ihn als meinen besten Freund an.* (I regard him as my best friend.) |
+| vorbeikommen | to drop by | *Kommst du morgen vorbei?* (Are you dropping by tomorrow?) |
+| vorbeigehen | to pass by | *Sie geht an uns vorbei.* (She passes by us.) |
+| grüßen | to greet | *Er grüßt seine Nachbarn jeden Morgen.* (He greets his neighbours every morning.) |
+| bummeln | to stroll | *Wir bummeln durch die Altstadt.* (We stroll through the old town.) |
+| lustig | funny | *Der Reisepartner ist sehr lustig.* (The travel partner is very funny.) |
+| abenteuerlustig | adventurous | *Sie ist sehr abenteuerlustig und reist gern.* (She is very adventurous and likes to travel.) |
+| asiatisch | Asian | *Ich esse gern asiatisches Essen.* (I like to eat Asian food.) |
+| aktiv | active | *Er ist sehr aktiv im Urlaub.* (He is very active on vacation.) |
+| gemeinsam | together / common | *Wir planen den Urlaub gemeinsam.* (We plan the vacation together.) |
+| einige | some / a few | *Einige Reisende kommen spät an.* (A few travellers arrive late.) |
+| prozentual | percentage-wise | *Prozentual gesehen ist das günstig.* (Percentage-wise that is affordable.) |
+| bei uns | with us / at our place / in our country | *Bei uns ist das anders.* (It's different with us / in our country.) |
+| komisch | strange / funny | *Das ist eine komische Situation.* (That is a strange situation.) |
+| klug | smart | *Eine kluge Entscheidung!* (A smart decision!) |
+| komfortabel | comfortable | *Das Hotel ist sehr komfortabel.* (The hotel is very comfortable.) |
 
 ---
 
@@ -311,77 +311,77 @@ Used for buildings, rooms, and countries with articles.
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| die Ampel | the traffic light |
-| die Vorsicht | the caution/care |
-| der Bäcker / die Bäckerei | the baker / the bakery |
-| das Lokal | the local venue (cafe/bar) |
-| der Kiosk | the kiosk |
-| die Sprachschule | the language school |
-| der Sprachkurs | the language course |
-| die Pizzeria | the pizzeria |
-| die Innenstadt | the city center / downtown |
-| der Bahnhof / Hauptbahnhof | the station / main station |
-| die Kamera | the camera |
-| die Buchung | the booking/reservation |
-| die Fluggesellschaft | the airline |
-| das Flugticket | the flight ticket |
-| der Flug | the flight |
-| das Hotelzimmer | the hotel room |
-| die Übernachtung | the overnight stay |
-| die Rezeption | the reception |
-| die Operation | the operation / surgery |
-| die Straße | the street |
-| der Spielplatz | the playground |
-| das Feld | the field |
-| der Balkon | the balcony |
-| der Berg | the mountain |
-| die Wiese | the meadow |
-| die Insel | the island |
-| die Hochzeit | the wedding |
-| das Klo | the toilet |
-| die Messe | the fair / exhibition |
-| der Friedhof | the cemetery |
-| das Meer | the sea |
-| der Strand | the beach |
-| der See | the lake |
-| der Fluss | the river |
-| das Schwimmbad | the swimming pool |
-| die Wand | the wall |
-| die Bushaltestelle | the bus stop |
-| die U-Bahn-Station | the subway station |
-| die Apotheke | the pharmacy |
-| der Supermarkt | the supermarket |
-| das Ausland | the foreign country |
-| der Rentner | the pensioner |
-| der Cocktail | the cocktail |
-| das Selfie | the selfie |
-| die Biografie | the biography |
-| die Fahrkarte | the travel ticket |
-| die S-Bahn-Linie | the S-Bahn line |
-| der Terminal | the terminal |
-| vorsichtig | careful |
-| borgen / ausborgen | to borrow |
-| zurückbringen | to bring back |
-| buchen | to book |
-| übernachten | to stay overnight |
-| hoffentlich | hopefully |
-| nicht nur ... sondern auch | not only ... but also |
-| singen | to sing |
-| diskutieren | to discuss |
-| operieren | to operate (surgery) |
-| lassen | to let / have something done |
-| rauchen | to smoke |
-| klettern | to climb |
-| intensiv | intensive |
-| grüßen | to greet |
-| selbstverliebt | narcissistic / in love with oneself |
-| möglich / unmöglich | possible / impossible |
-| öffentlich | public |
-| gültig | valid |
-| einfach | simple / one-way (ticket) |
-| hin und zurück | there and back (round trip) |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| die Ampel | the traffic light | *An der roten Ampel müssen alle warten.* (At the red traffic light everyone must wait.) |
+| die Vorsicht | the caution/care | *Vorsicht! Die Straße ist nass.* (Careful! The road is wet.) |
+| der Bäcker / die Bäckerei | the baker / the bakery | *Ich kaufe mein Brot in der Bäckerei.* (I buy my bread at the bakery.) |
+| das Lokal | the local venue (cafe/bar) | *Wir treffen uns heute im Lokal.* (We meet at the local venue today.) |
+| der Kiosk | the kiosk | *Ich kaufe eine Zeitung am Kiosk.* (I buy a newspaper at the kiosk.) |
+| die Sprachschule | the language school | *Ich lerne Deutsch in einer Sprachschule.* (I learn German at a language school.) |
+| der Sprachkurs | the language course | *Sie macht einen Sprachkurs in Wien.* (She is doing a language course in Vienna.) |
+| die Pizzeria | the pizzeria | *Wir essen heute Abend in der Pizzeria.* (We are eating at the pizzeria this evening.) |
+| die Innenstadt | the city center / downtown | *Das Hotel liegt in der Innenstadt.* (The hotel is located in the city center.) |
+| der Bahnhof / Hauptbahnhof | the station / main station | *Wir fahren zum Hauptbahnhof.* (We are going to the main station.) |
+| die Kamera | the camera | *Ich habe meine Kamera vergessen.* (I forgot my camera.) |
+| die Buchung | the booking/reservation | *Ich bestätige meine Buchung per E-Mail.* (I confirm my booking by email.) |
+| die Fluggesellschaft | the airline | *Welche Fluggesellschaft fliegt nach Berlin?* (Which airline flies to Berlin?) |
+| das Flugticket | the flight ticket | *Das Flugticket ist schon gebucht.* (The flight ticket is already booked.) |
+| der Flug | the flight | *Der Flug dauert zwei Stunden.* (The flight takes two hours.) |
+| das Hotelzimmer | the hotel room | *Das Hotelzimmer ist sehr komfortabel.* (The hotel room is very comfortable.) |
+| die Übernachtung | the overnight stay | *Eine Übernachtung kostet 80 Euro.* (An overnight stay costs 80 euros.) |
+| die Rezeption | the reception | *Bitte melden Sie sich an der Rezeption.* (Please check in at the reception.) |
+| die Operation | the operation / surgery | *Die Operation war erfolgreich.* (The operation was successful.) |
+| die Straße | the street | *Die Kinder spielen auf der Straße.* (The children play on the street.) |
+| der Spielplatz | the playground | *Die Kinder spielen auf dem Spielplatz.* (The children play on the playground.) |
+| das Feld | the field | *Die Bauern arbeiten auf dem Feld.* (The farmers work in the field.) |
+| der Balkon | the balcony | *Er raucht auf dem Balkon.* (He smokes on the balcony.) |
+| der Berg | the mountain | *Wir fahren mit der Seilbahn auf den Berg.* (We take the cable car up the mountain.) |
+| die Wiese | the meadow | *Die Kinder spielen auf der Wiese.* (The children play in the meadow.) |
+| die Insel | the island | *Die Insel ist sehr schön.* (The island is very beautiful.) |
+| die Hochzeit | the wedding | *Sie singt auf der Hochzeit.* (She sings at the wedding.) |
+| das Klo | the toilet | *Ich muss aufs Klo.* (I need to go to the toilet.) |
+| die Messe | the fair / exhibition | *Wir besuchen die Buchmesse in Frankfurt.* (We visit the book fair in Frankfurt.) |
+| der Friedhof | the cemetery | *Er besucht den Friedhof jedes Jahr.* (He visits the cemetery every year.) |
+| das Meer | the sea | *Wir fahren ans Meer.* (We are going to the sea.) |
+| der Strand | the beach | *Die Jugendlichen tanzen am Strand.* (The young people are dancing on the beach.) |
+| der See | the lake | *Wir schwimmen im See.* (We swim in the lake.) |
+| der Fluss | the river | *Der Rhein ist ein bekannter Fluss in Deutschland.* (The Rhine is a well-known river in Germany.) |
+| das Schwimmbad | the swimming pool | *Ich gehe ins Schwimmbad.* (I go to the swimming pool.) |
+| die Wand | the wall | *Das Bild hängt an der Wand.* (The picture hangs on the wall.) |
+| die Bushaltestelle | the bus stop | *Ich warte an der Bushaltestelle.* (I wait at the bus stop.) |
+| die U-Bahn-Station | the subway station | *Die U-Bahn-Station ist gleich um die Ecke.* (The subway station is right around the corner.) |
+| die Apotheke | the pharmacy | *Ich hole das Medikament in der Apotheke.* (I pick up the medication at the pharmacy.) |
+| der Supermarkt | the supermarket | *Ich kaufe täglich im Supermarkt ein.* (I shop at the supermarket daily.) |
+| das Ausland | the foreign country | *Er hat zwei Jahre im Ausland gelebt.* (He lived abroad for two years.) |
+| der Rentner | the pensioner | *Rentner machen Sport im Park.* (Pensioners do sport in the park.) |
+| der Cocktail | the cocktail | *Sie trinken Cocktails am Strand.* (They are drinking cocktails on the beach.) |
+| das Selfie | the selfie | *Wir machen ein Selfie vor dem Eiffelturm.* (We take a selfie in front of the Eiffel Tower.) |
+| die Biografie | the biography | *Ich lese gerade eine interessante Biografie.* (I am currently reading an interesting biography.) |
+| die Fahrkarte | the travel ticket | *Ich kaufe eine Fahrkarte am Automaten.* (I buy a ticket at the machine.) |
+| die S-Bahn-Linie | the S-Bahn line | *Welche S-Bahn-Linie fährt zum Flughafen?* (Which S-Bahn line goes to the airport?) |
+| der Terminal | the terminal | *Das Flugzeug landet an Terminal 2.* (The plane lands at Terminal 2.) |
+| vorsichtig | careful | *Sei vorsichtig auf der nassen Straße!* (Be careful on the wet road!) |
+| borgen / ausborgen | to borrow | *Kann ich dein Fahrrad ausleihen?* (Can I borrow your bicycle?) |
+| zurückbringen | to bring back | *Vergiss nicht, das Buch zurückzubringen.* (Don't forget to bring the book back.) |
+| buchen | to book | *Ich buche das Hotel online.* (I book the hotel online.) |
+| übernachten | to stay overnight | *Wir übernachten in einem günstigen Hotel.* (We stay overnight in an affordable hotel.) |
+| hoffentlich | hopefully | *Hoffentlich ist das Wetter morgen schön.* (Hopefully the weather will be nice tomorrow.) |
+| nicht nur ... sondern auch | not only ... but also | *Er spricht nicht nur Deutsch, sondern auch Englisch.* (He speaks not only German, but also English.) |
+| singen | to sing | *Sie singt auf der Hochzeit.* (She sings at the wedding.) |
+| diskutieren | to discuss | *Wir diskutieren über den Urlaubsplan.* (We discuss the vacation plan.) |
+| operieren | to operate (surgery) | *Der Arzt hat ihn operiert.* (The doctor operated on him.) |
+| lassen | to let / have something done | *Ich lasse mein Auto reparieren.* (I am having my car repaired.) |
+| rauchen | to smoke | *Er raucht auf dem Balkon.* (He smokes on the balcony.) |
+| klettern | to climb | *Die Kinder klettern auf den Baum.* (The children climb the tree.) |
+| intensiv | intensive | *Der Sprachkurs ist sehr intensiv.* (The language course is very intensive.) |
+| grüßen | to greet | *Er grüßt seine Nachbarn jeden Morgen.* (He greets his neighbours every morning.) |
+| selbstverliebt | narcissistic / in love with oneself | *Er ist ein bisschen selbstverliebt.* (He is a little narcissistic.) |
+| möglich / unmöglich | possible / impossible | *Ist das möglich?* (Is that possible?) |
+| öffentlich | public | *Das ist ein öffentlicher Park.* (That is a public park.) |
+| gültig | valid | *Das Ticket ist noch gültig.* (The ticket is still valid.) |
+| einfach | simple / one-way (ticket) | *Ich möchte eine Fahrkarte einfach.* (I would like a one-way ticket.) |
+| hin und zurück | there and back (round trip) | *Ich möchte ein Ticket hin und zurück.* (I would like a round-trip ticket.) |
 
 ---
 

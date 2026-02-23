@@ -152,52 +152,52 @@ The video introduces essential items found in the home and kitchen.
 
 ## 7. Vocabulary Section
 
-| German (with article) | English |
-| :--- | :--- |
-| der Löffel | the spoon |
-| die Gabel | the fork |
-| das Messer | the knife |
-| die Tasse | the cup |
-| der Schluck | the sip/gulp |
-| der Teller | the plate |
-| das Geschirr | the dishes |
-| der Küchenschrank | the kitchen cupboard |
-| die Spülmaschine | the dishwasher |
-| die Dose | the can/tin |
-| der Teppich | the carpet |
-| das Doppelbett | the double bed |
-| die Matratze | the mattress |
-| die Heizung | the heating/radiator |
-| die Waschmaschine | the washing machine |
-| das Sofa / die Couch | the sofa / the couch |
-| das Schlafsofa | the sofa bed |
-| die Pflanze | the plant |
-| der Tisch | the table |
-| der Sessel | the armchair |
-| die Tür | the door |
-| die Katze | the cat |
-| der Baum (Pl: die Bäume) | the tree |
-| die Wand | the wall |
-| das Bild | the picture |
-| der Schlüssel | the key |
-| das Schloss | the lock / the castle |
-| der Aufzug / der Lift | the elevator |
-| der Wagen | the car/wagon |
-| der Krankenwagen | the ambulance |
-| der Kinderwagen | the stroller/pram |
-| die Natur | the nature |
-| die Anzeige | the advertisement/ad |
-| die Bäckerei | the bakery |
-| der Schmuckladen | the jewelry shop |
-| die Garage | the garage |
-| der Stadtplan | the city map |
-| die U-Bahn Station | the subway station |
-| die Ferien (Pl.) | the holidays/vacation |
-| das Erdgeschoss | the ground floor |
-| der Stock | the floor/story |
-| die Etage | the floor/level |
-| die Kosten (Pl.) | the costs |
-| der Quadratmeter | the square meter |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Löffel | the spoon | *Der Löffel liegt neben dem Teller.* (The spoon is lying next to the plate.) |
+| die Gabel | the fork | *Ich lege die Gabel links neben den Teller.* (I put the fork to the left of the plate.) |
+| das Messer | the knife | *Das Messer liegt auf dem Tisch.* (The knife is lying on the table.) |
+| die Tasse | the cup | *Die Tasse steht im Küchenschrank.* (The cup is standing in the kitchen cupboard.) |
+| der Schluck | the sip/gulp | *Ich trinke einen Schluck Wasser.* (I drink a sip of water.) |
+| der Teller | the plate | *Das Essen steht auf dem Teller.* (The food is on the plate.) |
+| das Geschirr | the dishes | *Das Geschirr liegt in der Spülmaschine.* (The dishes are in the dishwasher.) |
+| der Küchenschrank | the kitchen cupboard | *Die Tassen stehen im Küchenschrank.* (The cups are in the kitchen cupboard.) |
+| die Spülmaschine | the dishwasher | *Wir stellen das Geschirr in die Spülmaschine.* (We put the dishes in the dishwasher.) |
+| die Dose | the can/tin | *Die Dose steht im Kühlschrank.* (The can is in the fridge.) |
+| der Teppich | the carpet | *Der Teppich liegt vor dem Sofa.* (The carpet is lying in front of the sofa.) |
+| das Doppelbett | the double bed | *Das Doppelbett steht im Schlafzimmer.* (The double bed is in the bedroom.) |
+| die Matratze | the mattress | *Die Matratze liegt auf dem Doppelbett.* (The mattress is lying on the double bed.) |
+| die Heizung | the heating/radiator | *Der Sessel steht neben der Heizung.* (The armchair is next to the radiator.) |
+| die Waschmaschine | the washing machine | *Die Waschmaschine steht in der Küche.* (The washing machine is in the kitchen.) |
+| das Sofa / die Couch | the sofa / the couch | *Das Sofa steht im Wohnzimmer.* (The sofa is in the living room.) |
+| das Schlafsofa | the sofa bed | *Das Schlafsofa ist praktisch für Gäste.* (The sofa bed is practical for guests.) |
+| die Pflanze | the plant | *Die Pflanze steht auf dem Tisch.* (The plant is on the table.) |
+| der Tisch | the table | *Das Buch liegt auf dem Tisch.* (The book is lying on the table.) |
+| der Sessel | the armchair | *Ich sitze gern im Sessel und lese.* (I like sitting in the armchair and reading.) |
+| die Tür | the door | *Der Schlüssel hängt an der Tür.* (The key hangs on the door.) |
+| die Katze | the cat | *Die Katze schläft unter dem Sessel.* (The cat sleeps under the armchair.) |
+| der Baum (Pl: die Bäume) | the tree | *Unser Haus ist hinter den Bäumen.* (Our house is behind the trees.) |
+| die Wand | the wall | *Das Bild hängt an der Wand.* (The picture is hanging on the wall.) |
+| das Bild | the picture | *Sie hängt das Bild über das Sofa.* (She hangs the picture above the sofa.) |
+| der Schlüssel | the key | *Ich suche meinen Schlüssel.* (I am looking for my key.) |
+| das Schloss | the lock / the castle | *Das Schloss an der Tür ist kaputt.* (The lock on the door is broken.) |
+| der Aufzug / der Lift | the elevator | *Wir nehmen den Aufzug in den dritten Stock.* (We take the elevator to the third floor.) |
+| der Wagen | the car/wagon | *Der Wagen steht vor der Garage.* (The car is in front of the garage.) |
+| der Krankenwagen | the ambulance | *Der Krankenwagen kommt sehr schnell.* (The ambulance comes very quickly.) |
+| der Kinderwagen | the stroller/pram | *Die Mutter schiebt den Kinderwagen im Park.* (The mother pushes the stroller in the park.) |
+| die Natur | the nature | *Wir machen einen Spaziergang in der Natur.* (We take a walk in nature.) |
+| die Anzeige | the advertisement/ad | *Ich habe eine Anzeige für eine Wohnung gefunden.* (I found an advertisement for an apartment.) |
+| die Bäckerei | the bakery | *Die Bäckerei ist neben der U-Bahn Station.* (The bakery is next to the subway station.) |
+| der Schmuckladen | the jewelry shop | *Der Schmuckladen ist im Erdgeschoss.* (The jewelry shop is on the ground floor.) |
+| die Garage | the garage | *Das Auto steht in der Garage.* (The car is in the garage.) |
+| der Stadtplan | the city map | *Ich brauche einen Stadtplan, weil ich fremd bin.* (I need a city map because I'm a stranger here.) |
+| die U-Bahn Station | the subway station | *Die U-Bahn Station ist nicht weit.* (The subway station is not far.) |
+| die Ferien (Pl.) | the holidays/vacation | *In den Ferien fahren wir nach Deutschland.* (During the holidays we travel to Germany.) |
+| das Erdgeschoss | the ground floor | *Der Schmuckladen ist im Erdgeschoss.* (The jewelry shop is on the ground floor.) |
+| der Stock | the floor/story | *Wir wohnen im zweiten Stock.* (We live on the second floor.) |
+| die Etage | the floor/level | *Das Büro ist auf der dritten Etage.* (The office is on the third floor.) |
+| die Kosten (Pl.) | the costs | *Die Kosten für die Wohnung sind hoch.* (The costs for the apartment are high.) |
+| der Quadratmeter | the square meter | *Die Wohnung hat sechzig Quadratmeter.* (The apartment has sixty square meters.) |
 
 ---
 

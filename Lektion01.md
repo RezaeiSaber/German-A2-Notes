@@ -155,17 +155,17 @@ When forming the Partizip II (past participle) of a **separable verb**, the **"-
 ## 📖 Vocabulary and Concept Breakdown [41:25](https://youtube.com/watch?v=NdY8kGA1wVA&t=2485s)
 
 #### Professional & Education:
-* **das Au-pair-Mädchen** (the au pair girl): Typically a young person living with a host family to learn language/culture while helping with children.
-* **die Gastfamilie** (the host family)
-* **das Reisebüro** (the travel agency)
-* **die Kauffrau** (the businesswoman / merchant)
-* **die Büroleiterin** (the office manager - female)
-* **selbstständig** (self-employed / independent)
+* **das Au-pair-Mädchen** (the au pair girl): Typically a young person living with a host family to learn language/culture while helping with children. — *Das Au-pair-Mädchen kommt aus Frankreich.* (The au pair girl comes from France.)
+* **die Gastfamilie** (the host family) — *Die Gastfamilie ist sehr nett und hilfsbereit.* (The host family is very nice and helpful.)
+* **das Reisebüro** (the travel agency) — *Ich kaufe mein Ticket im Reisebüro.* (I buy my ticket at the travel agency.)
+* **die Kauffrau** (the businesswoman / merchant) — *Die Kauffrau arbeitet in einem Geschäft.* (The businesswoman works in a shop.)
+* **die Büroleiterin** (the office manager - female) — *Die Büroleiterin hat heute viel Arbeit.* (The office manager has a lot of work today.)
+* **selbstständig** (self-employed / independent) — *Mein Vater arbeitet selbstständig und hat ein kleines Büro.* (My father works self-employed and has a small office.)
 
 #### Practical Expressions:
-* **ausdrucken** (to print out)
-* **schicken / senden** (to send)
-* **doch** (the "rebuttal" yes): Used to answer "yes" to a negative question.
+* **ausdrucken** (to print out) — *Kannst du das Dokument bitte ausdrucken?* (Can you please print out the document?)
+* **schicken / senden** (to send) — *Ich schicke dir die E-Mail morgen.* (I will send you the email tomorrow.)
+* **doch** (the "rebuttal" yes): Used to answer "yes" to a negative question. — *Hast du nichts gegessen? — Doch, ich habe gegessen!* (Did you eat nothing? — Yes, I did eat!)
     * Hast du nichts gegessen? (Did you eat nothing?) -> **Doch!** (Yes, I did eat!) [45:00](https://youtube.com/watch?v=NdY8kGA1wVA&t=2700s)
 
 ---
@@ -202,66 +202,66 @@ When forming the Partizip II (past participle) of a **separable verb**, the **"-
 
 ## Vocabulary Table
 
-| German (with article) | English |
-| :--- | :--- |
-| der Nebensatz | subordinate clause |
-| weil | because / since |
-| krank | sick |
-| müde | tired |
-| der Bahnhof | train station |
-| der Zug | train |
-| abfahren | to depart |
-| kennenlernen | to get to know |
-| interessant | interesting |
-| uninteressant | uninteresting / boring |
-| sich interessieren | to be interested |
-| persönlich | personal |
-| die Generation | generation |
-| global | global |
-| die Herkunft | origin / ancestry |
-| das Lieblingsland | favorite country |
-| der Traum | dream |
-| die Grenze | border |
-| seit | since / for (time) |
-| der Monat | month |
-| das Jahr | year |
-| die Woche | week |
-| die Kultur | culture |
-| vergleichen | to compare |
-| die Unterkunft | accommodation |
-| die Verpflegung | catering / food supply |
-| heiraten | to marry |
-| verheiratet | married |
-| ledig | single |
-| die Oma | grandma |
-| der Opa | grandpa |
-| berichten | to report / inform |
-| finden | to find / to think |
-| das Motto | motto |
-| der Spielplatz | playground |
-| unterrichten | to teach |
-| die Prüfung | exam |
-| das Au-pair-Mädchen | au pair girl |
-| die Gastfamilie | host family |
-| das Reisebüro | travel agency |
-| erfolgreich | successful |
-| zufrieden | satisfied |
-| unzufrieden | dissatisfied |
-| selbstständig | self-employed |
-| kontrollieren | to control / check |
-| das Projekt | project |
-| die Kauffrau | businesswoman |
-| die Büroleiterin | office manager (female) |
-| schicken | to send |
-| senden | to send |
-| ausdrucken | to print out |
-| doch | on the contrary / yes |
-| die Universitätsklinik | university clinic |
-| die Hütte | hut / cabin |
-| der Geist | spirit / ghost |
-| die Geisterstadt | ghost town |
-| der Einwohner | inhabitant |
-| natürlich | naturally / of course |
-| die Frage | question |
-| bedeuten | to mean |
-| die Bedeutung | the meaning |
+| German (with article) | English | Beispiel (A2 Level) |
+| :--- | :--- | :--- |
+| der Nebensatz | subordinate clause | *„Weil" leitet einen Nebensatz ein.* ("Weil" introduces a subordinate clause.) |
+| weil | because / since | *Ich lerne Deutsch, weil ich in Deutschland leben möchte.* (I learn German because I want to live in Germany.) |
+| krank | sick | *Er kommt nicht zur Schule, weil er krank ist.* (He is not coming to school because he is sick.) |
+| müde | tired | *Ich bin müde, weil ich wenig geschlafen habe.* (I am tired because I slept little.) |
+| der Bahnhof | train station | *Wir treffen uns am Bahnhof um 10 Uhr.* (We meet at the train station at 10 o'clock.) |
+| der Zug | train | *Der Zug fährt in fünf Minuten ab.* (The train departs in five minutes.) |
+| abfahren | to depart | *Der Zug fährt um 8 Uhr ab.* (The train departs at 8 o'clock.) |
+| kennenlernen | to get to know | *Ich möchte dich besser kennenlernen.* (I would like to get to know you better.) |
+| interessant | interesting | *Diese Kultur ist sehr interessant.* (This culture is very interesting.) |
+| uninteressant | uninteresting / boring | *Der Film war leider uninteressant.* (The film was unfortunately uninteresting.) |
+| sich interessieren | to be interested | *Ich interessiere mich für deutsche Kultur.* (I am interested in German culture.) |
+| persönlich | personal | *Das ist eine persönliche Frage.* (That is a personal question.) |
+| die Generation | generation | *Jede Generation denkt anders.* (Every generation thinks differently.) |
+| global | global | *Englisch ist eine globale Sprache.* (English is a global language.) |
+| die Herkunft | origin / ancestry | *Was ist deine Herkunft?* (What is your origin?) |
+| das Lieblingsland | favorite country | *Mein Lieblingsland ist Deutschland.* (My favourite country is Germany.) |
+| der Traum | dream | *Ihr Traum ist es, in Wien zu leben.* (Her dream is to live in Vienna.) |
+| die Grenze | border | *Die Grenze zwischen Deutschland und Österreich ist offen.* (The border between Germany and Austria is open.) |
+| seit | since / for (time) | *Ich lerne seit einem Jahr Deutsch.* (I have been learning German for a year.) |
+| der Monat | month | *Ich wohne seit einem Monat in Berlin.* (I have been living in Berlin for a month.) |
+| das Jahr | year | *Sie arbeitet seit zwei Jahren in dieser Firma.* (She has been working at this company for two years.) |
+| die Woche | week | *Ich sehe dich seit einer Woche nicht.* (I haven't seen you for a week.) |
+| die Kultur | culture | *Die Kultur in Deutschland ist sehr interessant.* (The culture in Germany is very interesting.) |
+| vergleichen | to compare | *Wir vergleichen die zwei Städte miteinander.* (We compare the two cities with each other.) |
+| die Unterkunft | accommodation | *Die Unterkunft ist günstig und sauber.* (The accommodation is affordable and clean.) |
+| die Verpflegung | catering / food supply | *Die Verpflegung im Hotel ist sehr gut.* (The catering at the hotel is very good.) |
+| heiraten | to marry | *Sie heiraten im Sommer.* (They are getting married in summer.) |
+| verheiratet | married | *Er ist seit fünf Jahren verheiratet.* (He has been married for five years.) |
+| ledig | single | *Sie ist noch ledig und sucht einen Partner.* (She is still single and looking for a partner.) |
+| die Oma | grandma | *Meine Oma wohnt in München.* (My grandma lives in Munich.) |
+| der Opa | grandpa | *Mein Opa kommt jeden Sonntag zu Besuch.* (My grandpa comes to visit every Sunday.) |
+| berichten | to report / inform | *Der Journalist berichtet über das Ereignis.* (The journalist reports about the event.) |
+| finden | to find / to think | *Ich finde diesen Film sehr gut.* (I find this film very good.) |
+| das Motto | motto | *Unser Motto ist: Immer positiv denken!* (Our motto is: Always think positively!) |
+| der Spielplatz | playground | *Die Kinder spielen auf dem Spielplatz.* (The children play on the playground.) |
+| unterrichten | to teach | *Sie unterrichtet Deutsch an einer Schule.* (She teaches German at a school.) |
+| die Prüfung | exam | *Morgen habe ich eine wichtige Prüfung.* (Tomorrow I have an important exam.) |
+| das Au-pair-Mädchen | au pair girl | *Das Au-pair-Mädchen kommt aus Frankreich.* (The au pair girl comes from France.) |
+| die Gastfamilie | host family | *Die Gastfamilie ist sehr nett und hilfsbereit.* (The host family is very nice and helpful.) |
+| das Reisebüro | travel agency | *Ich kaufe mein Ticket im Reisebüro.* (I buy my ticket at the travel agency.) |
+| erfolgreich | successful | *Sie hat die Prüfung erfolgreich bestanden.* (She passed the exam successfully.) |
+| zufrieden | satisfied | *Ich bin mit meiner Arbeit sehr zufrieden.* (I am very satisfied with my work.) |
+| unzufrieden | dissatisfied | *Er ist unzufrieden mit dem Ergebnis.* (He is dissatisfied with the result.) |
+| selbstständig | self-employed | *Mein Vater arbeitet selbstständig.* (My father works self-employed.) |
+| kontrollieren | to control / check | *Die Lehrerin kontrolliert die Hausaufgaben.* (The teacher checks the homework.) |
+| das Projekt | project | *Wir arbeiten an einem neuen Projekt.* (We are working on a new project.) |
+| die Kauffrau | businesswoman | *Die Kauffrau arbeitet in einem großen Geschäft.* (The businesswoman works in a large shop.) |
+| die Büroleiterin | office manager (female) | *Die Büroleiterin hat heute viele Meetings.* (The office manager has many meetings today.) |
+| schicken | to send | *Ich schicke dir die Dokumente per E-Mail.* (I am sending you the documents by email.) |
+| senden | to send | *Er sendet ihr eine Nachricht.* (He sends her a message.) |
+| ausdrucken | to print out | *Kannst du das Dokument bitte ausdrucken?* (Can you please print out the document?) |
+| doch | on the contrary / yes | *Hast du nicht gegessen? — Doch, ich habe gegessen!* (Didn't you eat? — Yes, I did eat!) |
+| die Universitätsklinik | university clinic | *Er arbeitet als Arzt in der Universitätsklinik.* (He works as a doctor at the university clinic.) |
+| die Hütte | hut / cabin | *Wir übernachten in einer kleinen Hütte in den Bergen.* (We stay overnight in a small cabin in the mountains.) |
+| der Geist | spirit / ghost | *Das Kind hat Angst vor Geistern.* (The child is afraid of ghosts.) |
+| die Geisterstadt | ghost town | *Die Geisterstadt ist seit Jahren verlassen.* (The ghost town has been abandoned for years.) |
+| der Einwohner | inhabitant | *Die Stadt hat eine Million Einwohner.* (The city has one million inhabitants.) |
+| natürlich | naturally / of course | *Natürlich helfe ich dir!* (Of course I will help you!) |
+| die Frage | question | *Hast du eine Frage?* (Do you have a question?) |
+| bedeuten | to mean | *Was bedeutet dieses Wort auf Deutsch?* (What does this word mean in German?) |
+| die Bedeutung | the meaning | *Die Bedeutung dieses Wortes ist unklar.* (The meaning of this word is unclear.) |
